@@ -8,12 +8,12 @@ from bs4 import BeautifulSoup
 app = Flask(__name__)
 
 # ─── CONFIGURA QUI ─────────────────────────────────────────────────────────────
-OMDB_API_KEY = "LA_TUA_KEY_OMDB"     # https://www.omdbapi.com/apikey.aspx
-TMDB_API_KEY = "LA_TUA_KEY_TMDB"     # https://www.themoviedb.org/settings/api
+OMDB_API_KEY = "34621f55"     # https://www.omdbapi.com/apikey.aspx
+TMDB_API_KEY = "b6a0ccf54e2f808390e4626b0e98ebd8"     # https://www.themoviedb.org/settings/api
 
 # Aggiorna quando CB01 cambia dominio
-CB01_BASE_URL   = "https://cb01uno.sbs"
-CB01_SERIES_URL = "https://cb01uno.sbs/serietv/"
+CB01_BASE_URL   = "https://cb01uno.bond"
+CB01_SERIES_URL = "https://cb01uno.bond/serietv/"
 # ──────────────────────────────────────────────────────────────────────────────
 
 HEADERS = {

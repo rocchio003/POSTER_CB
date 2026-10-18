@@ -12,8 +12,8 @@ OMDB_API_KEY = "34621f55"     # https://www.omdbapi.com/apikey.aspx
 TMDB_API_KEY = "b6a0ccf54e2f808390e4626b0e98ebd8"     # https://www.themoviedb.org/settings/api
 
 # Aggiorna quando CB01 cambia dominio
-CB01_BASE_URL   = "https://cb01uno.bond"
-CB01_SERIES_URL = "https://cb01uno.bond/serietv/"
+CB01_BASE_URL   = "https://cb01uno.vip"
+CB01_SERIES_URL = "https://cb01uno.vip/serietv/"
 # ──────────────────────────────────────────────────────────────────────────────
 
 HEADERS = {

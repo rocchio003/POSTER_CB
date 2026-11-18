@@ -1,27 +1,48 @@
+import os
 import re
 import time
 import threading
-from flask import Flask, jsonify, request as freq
+from urllib.parse import urljoin
+from flask import Flask, jsonify
 import requests
 from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 
-# ─── CONFIGURA QUI ─────────────────────────────────────────────────────────────
-OMDB_API_KEY = "34621f55"     # https://www.omdbapi.com/apikey.aspx
-TMDB_API_KEY = "b6a0ccf54e2f808390e4626b0e98ebd8"     # https://www.themoviedb.org/settings/api
+# ─── CONFIGURAZIONE ────────────────────────────────────────────────────────────
+# Le chiavi e il dominio si possono cambiare da Vercel senza toccare il codice:
+# Project → Settings → Environment Variables (poi Redeploy).
+OMDB_API_KEY = os.environ.get("OMDB_API_KEY", "34621f55")
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "b6a0ccf54e2f808390e4626b0e98ebd8")
 
-# Aggiorna quando CB01 cambia dominio
-CB01_BASE_URL   = "https://cb01one.watch/"
-CB01_SERIES_URL = "https://cb01one.watch/serietv/"
+# Quando CB01 cambia dominio: imposta CB01_BASE_URL su Vercel (es. https://nuovodominio.xyz/)
+# oppure modifica il valore di default qui sotto.
+CB01_BASE_URL   = os.environ.get("CB01_BASE_URL", "https://cb01one.watch/").rstrip("/") + "/"
+CB01_SERIES_URL = CB01_BASE_URL + "serietv/"
 # ──────────────────────────────────────────────────────────────────────────────
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
 }
 
 _imdb_cache: dict = {}
 _cache_lock = threading.Lock()
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# FETCH CON LOG
+# ─────────────────────────────────────────────────────────────────────────────
+
+def fetch(url: str):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
+        print(f"[FETCH] {url} -> {r.status_code} (finale: {r.url}, {len(r.text)} bytes)")
+        return r
+    except Exception as e:
+        print(f"[FETCH] {url} -> ERRORE: {e}")
+        return None
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -199,13 +220,15 @@ def scrape_content(url: str, is_serie: bool = False) -> list:
     content_list = []
     media_type   = "series" if is_serie else "movie"
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        if response.status_code != 200:
+        response = fetch(url)
+        if response is None or response.status_code != 200:
             return content_list
+        base = response.url  # dominio reale dopo eventuali redirect
         soup  = BeautifulSoup(response.text, "html.parser")
         posts = soup.select("div.card.mp-post.horizontal")
         if not posts:
             posts = soup.select("div.post, div.ext-post, article, .ci-item")
+        print(f"[CB01] {url}: trovati {len(posts)} post")
         for post in posts:
             title_el = post.select_one("h3.card-title a[href]")
             if not title_el:
@@ -219,16 +242,15 @@ def scrape_content(url: str, is_serie: bool = False) -> list:
             page_url   = title_el.get("href", "") if title_el.name == "a" else ""
             if not page_url and title_el.find("a"):
                 page_url = title_el.find("a").get("href", "")
-            poster_url = img_el.get("src", "")
+            poster_url = img_el.get("src", "") or img_el.get("data-src", "")
             if not raw_title or len(raw_title) < 3:
                 continue
             if any(x in raw_title.lower() for x in ("banner", "cb01", "logo")):
                 continue
             if not poster_url or not page_url:
                 continue
-            if poster_url.startswith("/"):  poster_url = f"{CB01_BASE_URL}{poster_url}"
-            if page_url.startswith("/"):    page_url   = f"{CB01_BASE_URL}{page_url}"
-            poster_url = poster_url.replace("http://", "https://")
+            poster_url = urljoin(base, poster_url).replace("http://", "https://")
+            page_url   = urljoin(base, page_url)
             imdb_id    = get_imdb_id(raw_title, media_type)
             content_id = imdb_id if imdb_id else (
                 ("cb01s" if is_serie else "cb01m") + page_url.encode("utf-8").hex()
@@ -251,9 +273,10 @@ def scrape_content(url: str, is_serie: bool = False) -> list:
 def scrape_latest() -> list:
     items = []
     try:
-        response = requests.get(CB01_BASE_URL, headers=HEADERS, timeout=10)
-        if response.status_code != 200:
+        response = fetch(CB01_BASE_URL)
+        if response is None or response.status_code != 200:
             return items
+        base    = response.url
         soup    = BeautifulSoup(response.text, "html.parser")
         entries = []
         for widget_id in ["rpwe_widget-2", "rpwe_widget-3", "rpwe_widget-4", "rpwe_widget-1"]:
@@ -262,6 +285,7 @@ def scrape_latest() -> list:
                 break
         if not entries:
             entries = soup.select("ul.rpwe-ul li.rpwe-li")
+        print(f"[CB01-latest] trovate {len(entries)} voci")
         for entry in entries:
             title_el   = entry.select_one("h3.rpwe-title a[href]") or entry.find("a")
             img_el     = entry.select_one("img.rpwe-thumb") or entry.find("img")
@@ -276,9 +300,8 @@ def scrape_latest() -> list:
                 continue
             if not poster_url or not page_url:
                 continue
-            if poster_url.startswith("/"):  poster_url = f"{CB01_BASE_URL}{poster_url}"
-            if page_url.startswith("/"):    page_url   = f"{CB01_BASE_URL}{page_url}"
-            poster_url = poster_url.replace("http://", "https://")
+            poster_url = urljoin(base, poster_url).replace("http://", "https://")
+            page_url   = urljoin(base, page_url)
             is_serie   = "/serietv/" in page_url
             media_type = "series" if is_serie else "movie"
             imdb_id    = get_imdb_id(raw_title, media_type)
@@ -345,12 +368,42 @@ def catalog(content_type, catalog_id):
         metas = deduplicate(scrape_content(CB01_BASE_URL, is_serie=False))
     resp = jsonify({"metas": metas})
     resp.headers.add("Access-Control-Allow-Origin", "*")
+    if metas:  # niente cache se il risultato è vuoto
+        resp.headers["Cache-Control"] = "s-maxage=1800, stale-while-revalidate=3600"
+    return resp
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DEBUG — apri /debug nel browser per capire perché il catalogo è vuoto
+# ─────────────────────────────────────────────────────────────────────────────
+
+@app.route("/debug")
+def debug():
+    out = {"base_url": CB01_BASE_URL, "series_url": CB01_SERIES_URL}
+    for name, url in (("home", CB01_BASE_URL), ("series", CB01_SERIES_URL)):
+        r = fetch(url)
+        if r is None:
+            out[name] = {"errore": "connessione fallita (dominio spento o DNS bloccato)"}
+            continue
+        soup = BeautifulSoup(r.text, "html.parser")
+        low  = r.text.lower()
+        out[name] = {
+            "status":         r.status_code,
+            "url_finale":     r.url,
+            "bytes":          len(r.text),
+            "title":          soup.title.get_text(strip=True) if soup.title else None,
+            "cloudflare":     ("just a moment" in low) or ("cf-chl" in low) or ("challenge-platform" in low),
+            "post_card":      len(soup.select("div.card.mp-post.horizontal")),
+            "post_fallback":  len(soup.select("div.post, div.ext-post, article, .ci-item")),
+            "voci_rpwe":      len(soup.select("ul.rpwe-ul li.rpwe-li")),
+        }
+    resp = jsonify(out)
+    resp.headers.add("Access-Control-Allow-Origin", "*")
     return resp
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    import os
     port = int(os.environ.get("PORT", 3000))
     app.run(host="0.0.0.0", port=port)

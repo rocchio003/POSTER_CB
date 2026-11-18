@@ -7,7 +7,15 @@ from flask import Flask, jsonify
 import requests
 from bs4 import BeautifulSoup
 
+try:
+    from curl_cffi import requests as cffi_requests
+except Exception:
+    cffi_requests = None
+
 app = Flask(__name__)
+
+# Proxy opzionale per le richieste a CB01 (es. http://utente:password@host:porta)
+PROXY_URL = os.environ.get("CB01_PROXY", "").strip()
 
 # ─── CONFIGURAZIONE ────────────────────────────────────────────────────────────
 # Le chiavi e il dominio si possono cambiare da Vercel senza toccare il codice:
@@ -36,8 +44,20 @@ _cache_lock = threading.Lock()
 # ─────────────────────────────────────────────────────────────────────────────
 
 def fetch(url: str):
+    proxies = {"http": PROXY_URL, "https": PROXY_URL} if PROXY_URL else None
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
+        if cffi_requests is not None:
+            # Impronta TLS di Chrome reale: supera il controllo base di Cloudflare
+            r = cffi_requests.get(
+                url,
+                headers={"Accept-Language": HEADERS["Accept-Language"]},
+                timeout=15,
+                allow_redirects=True,
+                impersonate="chrome",
+                proxies=proxies,
+            )
+        else:
+            r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True, proxies=proxies)
         print(f"[FETCH] {url} -> {r.status_code} (finale: {r.url}, {len(r.text)} bytes)")
         return r
     except Exception as e:

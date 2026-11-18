@@ -1,73 +1,73 @@
 {
  "metas": [
   {
-   "id": "tt4847126",
-   "type": "movie",
-   "name": "Il volo",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/Il-volo-1986-LOC.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/il-volo-hd-1986/"
-  },
-  {
    "id": "tt0114084",
    "type": "movie",
    "name": "Panther",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/Panther-1995-loc.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/gxGOkt6WBhSIdZiQqyVEccRURVv.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/panther-1995/"
   },
   {
    "id": "tt0062182",
    "type": "movie",
    "name": "Il grido di guerra dei sioux",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/Il-grido-di-guerra-dei-sioux-1967-LOC.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/vt22vvQVCwlmR2XQCvFDoBubPc9.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/il-grido-di-guerra-dei-sioux-1967/"
+  },
+  {
+   "id": "tt4847126",
+   "type": "movie",
+   "name": "Il volo",
+   "poster": "https://image.tmdb.org/t/p/w500/ao6yl6jXenvz4SUNxjpOsAqAizn.jpg",
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/il-volo-hd-1986/"
   },
   {
    "id": "tt5147214",
    "type": "movie",
    "name": "Headshot",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-45.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/pobssUBo48dBsdi3XW98Pmagj7u.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/headshot-2023/"
   },
   {
    "id": "tt0113948",
    "type": "movie",
    "name": "Cyborg Terminator 2",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-Copia-1.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/dfBROAe2wXgbB7NbksvVvT49vZW.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/cyborg-terminator-2-1995/"
   },
   {
    "id": "tt7397958",
    "type": "movie",
    "name": "Quelli che lavorano",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-44.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/tM4qXipwgHeiw8mN2JyWPBCSvk8.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/quelli-che-lavorano-2018/"
   },
   {
    "id": "tt1196645",
    "type": "movie",
    "name": "Istantanea per un delitto",
-   "poster": "https://cb01one.watch/wp-content/uploads/2013/07/72VBsOrSqAL._SL1500_-14.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/grgo1jHlE72pEZqW74kAruRZjA0.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/istantanea-per-un-delitto-1975/"
   },
   {
    "id": "tt0063090",
    "type": "movie",
    "name": "Korang",
-   "poster": "https://cb01one.watch/wp-content/uploads/2013/05/72VBsOrSqAL._SL1500_-14.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/8TnGVV6KXUve5RCyPkZ9BgN876X.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/korang-la-terrificante-bestia-umana-hd-1969/"
   },
   {
    "id": "tt0070370",
    "type": "movie",
    "name": "La mano spietata della legge",
-   "poster": "https://cb01one.watch/wp-content/uploads/2013/02/72VBsOrSqAL._SL1500_-37.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/5n5TY3SRG9RAQsS1RzuU1eUjMle.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/la-mano-spietata-della-legge-1973/"
   },
   {
    "id": "tt27372066",
    "type": "movie",
    "name": "La via maestra",
-   "poster": "https://cb01one.watch/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-43.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/cGvtei1xQpDrtQzSGAhkh8mUnuL.jpg",
    "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/la-via-maestra-2023/"
   }
  ]

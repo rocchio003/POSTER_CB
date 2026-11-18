@@ -41,7 +41,7 @@ def load_metas(name: str) -> list:
 def manifest():
     data = {
         "id":          "org.cb01omnivixcataloguerealimdbv37",
-        "version":     "37.0.0",
+        "version":     "39.0.0",
         "name":        "CB01 Cataloghi per OmniVix",
         "description": "Locandine aggiornate da CB01. Riproduzione tramite ID IMDb reali (OMDB+TMDB).",
         "resources":   ["catalog"],

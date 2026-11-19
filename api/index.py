@@ -71,6 +71,67 @@ def catalog(content_type, catalog_id):
     return resp
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# ADDON STREAMINGCOMMUNITY (separato da CB01): https://<dominio>/sc/manifest.json
+# I cataloghi stanno tutti in data/sc.json, scritto da sc_scraper.py.
+# L'elenco dei generi si cambia nello scraper: il manifest si adegua da solo.
+# ─────────────────────────────────────────────────────────────────────────────
+
+def load_sc() -> list:
+    path = _find("sc.json")
+    if not path:
+        print("[DATA] file mancante: data/sc.json")
+        return []
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f).get("catalogs", [])
+    except Exception as e:
+        print(f"[DATA] errore lettura sc.json: {e}")
+        return []
+
+
+@app.route("/sc/manifest.json")
+def sc_manifest():
+    catalogs = load_sc()
+    data = {
+        "id":          "org.streamingcommunity.nuvio.cataloghi",
+        "version":     "1.0.0",
+        "name":        "StreamingCommunity Cataloghi",
+        "description": "Locandine aggiornate da StreamingCommunity per genere. Riproduzione tramite ID IMDb reali.",
+        "resources":   ["catalog"],
+        "types":       ["movie", "series"],
+        "catalogs": [
+            {"type": "movie", "id": "sc_" + c["id"], "name": c["name"]} for c in catalogs
+        ],
+        "idPrefixes": ["tt"],
+    }
+    resp = jsonify(data)
+    resp.headers.add("Access-Control-Allow-Origin", "*")
+    return resp
+
+
+@app.route("/sc/catalog/<content_type>/<catalog_id>.json")
+def sc_catalog(content_type, catalog_id):
+    key = catalog_id[3:] if catalog_id.startswith("sc_") else catalog_id
+    metas = []
+    for c in load_sc():
+        if c.get("id") == key:
+            metas = c.get("metas", [])
+            break
+    resp = jsonify({"metas": metas})
+    resp.headers.add("Access-Control-Allow-Origin", "*")
+    if metas:
+        resp.headers["Cache-Control"] = "s-maxage=300, stale-while-revalidate=600"
+    return resp
+
+
+@app.route("/sc/debug")
+def sc_debug():
+    resp = jsonify({c.get("id"): len(c.get("metas", [])) for c in load_sc()})
+    resp.headers.add("Access-Control-Allow-Origin", "*")
+    return resp
+
+
 @app.route("/debug")
 def debug():
     out = {}

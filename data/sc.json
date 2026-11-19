@@ -1,0 +1,2854 @@
+{
+ "catalogs": [
+  {
+   "id": "trending",
+   "name": "SC – I titoli del momento",
+   "metas": [
+    {
+     "id": "tt9581768",
+     "type": "series",
+     "name": "The Circle: USA",
+     "poster": "https://image.tmdb.org/t/p/w500/bQRxhfXXsH4ccScOBHs51bgwNe4.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/3242-the-circle-usa",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt5622316",
+     "type": "series",
+     "name": "The Chosen",
+     "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/11977-the-chosen",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39325975",
+     "type": "series",
+     "name": "L'imperatrice",
+     "poster": "https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/5617-limperatrice",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27995115",
+     "type": "series",
+     "name": "The Devil’s Plan",
+     "poster": "https://image.tmdb.org/t/p/w500/ezsnPeIru8Z7iomV89EbABjaIlU.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/7256-the-devils-plan",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt7631058",
+     "type": "series",
+     "name": "Il Signore degli Anelli: Gli anelli del potere",
+     "poster": "https://image.tmdb.org/t/p/w500/oA9c49FoSJDTGKBfngC6L8XnmU9.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/5369-il-signore-degli-anelli-gli-anelli-del-potere",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt10946316",
+     "type": "series",
+     "name": "L'Istituto",
+     "poster": "https://image.tmdb.org/t/p/w500/mOvJlMBwWGwlbzUEOC2KrZQHj0U.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12722-listituto",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39943756",
+     "type": "series",
+     "name": "Campus Drivers",
+     "poster": "https://image.tmdb.org/t/p/w500/6VyMtqsIQ23AfYM11KZxRVDyGkH.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66521-campus-drivers",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt15557874",
+     "type": "series",
+     "name": "The Traitors – Italia",
+     "poster": "https://image.tmdb.org/t/p/w500/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/32740-the-traitors-italia",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27995113",
+     "type": "series",
+     "name": "Black Doves",
+     "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/10687-black-doves",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt30291387",
+     "type": "series",
+     "name": "All's Fair",
+     "poster": "https://image.tmdb.org/t/p/w500/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/33587-alls-fair",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt4406178",
+     "type": "series",
+     "name": "The Gilded Age",
+     "poster": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/7244-the-gilded-age",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt43663295",
+     "type": "movie",
+     "name": "A Story of Derry",
+     "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66468-a-story-of-derry"
+    },
+    {
+     "id": "tt33043892",
+     "type": "series",
+     "name": "Dexter: Resurrection",
+     "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12711-dexter-resurrection",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0780504",
+     "type": "movie",
+     "name": "Drive - Cuori in pista",
+     "poster": "https://image.tmdb.org/t/p/w500/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66440-drive-cuori-in-pista"
+    },
+    {
+     "id": "tt2531336",
+     "type": "series",
+     "name": "Lupin",
+     "poster": "https://image.tmdb.org/t/p/w500/d59yXYdagCO8OSPZIV68lRoB5PF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/2695-lupin",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt26933824",
+     "type": "series",
+     "name": "Nobody Wants This",
+     "poster": "https://image.tmdb.org/t/p/w500/1RNtqMeSNNBkXqK8WPUMf72vGrt.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/9987-nobody-wants-this",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34890576",
+     "type": "movie",
+     "name": "Clayface",
+     "poster": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65705-clayface"
+    },
+    {
+     "id": "tt11743610",
+     "type": "series",
+     "name": "Terminal List",
+     "poster": "https://image.tmdb.org/t/p/w500/onDgOhbqcWyYEMFrobhVvgHmqHr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/5233-terminal-list",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt30423822",
+     "type": "series",
+     "name": "GialappaShow",
+     "poster": "https://image.tmdb.org/t/p/w500/4C0DEEg6hJAcYIvgzqSFtt9x8A9.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/8180-gialappashow",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt16358384",
+     "type": "series",
+     "name": "Tulsa King",
+     "poster": "https://image.tmdb.org/t/p/w500/bbhGWT5ln5dTFKP2DBCELOwK3jA.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/6004-tulsa-king",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt23148340",
+     "type": "series",
+     "name": "Crystal Lake",
+     "poster": "https://image.tmdb.org/t/p/w500/iFZd7n9ARPxLLg0BJ5jXGKk0lQG.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66337-crystal-lake",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt17491088",
+     "type": "series",
+     "name": "The Diplomat",
+     "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/6254-the-diplomat",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt7235466",
+     "type": "series",
+     "name": "9-1-1",
+     "poster": "https://image.tmdb.org/t/p/w500/u6HuWWohheyzAj5PUn4rBd0eH92.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/1484-9-1-1",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0413573",
+     "type": "series",
+     "name": "Grey's Anatomy",
+     "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/127-greys-anatomy",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0111301",
+     "type": "movie",
+     "name": "Street Fighter",
+     "poster": "https://image.tmdb.org/t/p/w500/xQDDHK88Qy3tXl0cIH0BZA0EoBy.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65706-street-fighter"
+    },
+    {
+     "id": "tt10691770",
+     "type": "series",
+     "name": "Helluva Boss",
+     "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/13065-helluva-boss",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38681829",
+     "type": "series",
+     "name": "L'amore è cieco",
+     "poster": "https://image.tmdb.org/t/p/w500/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/10051-lamore-e-cieco",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt23112594",
+     "type": "series",
+     "name": "VisionQuest",
+     "poster": "https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66322-visionquest",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt3156640",
+     "type": "series",
+     "name": "L'isola del tesoro",
+     "poster": "https://image.tmdb.org/t/p/w500/goEToIUJhx8JUVW7kdeoT4kg44x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66308-lisola-del-tesoro",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37522541",
+     "type": "movie",
+     "name": "Apocalipsis Z: Il Nuovo Mondo",
+     "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66461-apocalipsis-z-il-nuovo-mondo"
+    }
+   ]
+  },
+  {
+   "id": "azione",
+   "name": "SC – Azione",
+   "metas": [
+    {
+     "id": "tt1392170",
+     "type": "movie",
+     "name": "Hunger Games - L'alba sulla mietitura",
+     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
+    },
+    {
+     "id": "tt1307989",
+     "type": "movie",
+     "name": "Never Surrender",
+     "poster": "https://image.tmdb.org/t/p/w500/3EMaDo7LSbn4kle5hFw4DRIFAK6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66566-never-surrender"
+    },
+    {
+     "id": "tt13611778",
+     "type": "movie",
+     "name": "The Mongoose",
+     "poster": "https://image.tmdb.org/t/p/w500/qOJrnf5sfPe3zd4E662iFifKpmJ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66426-the-mongoose"
+    },
+    {
+     "id": "tt2338107",
+     "type": "movie",
+     "name": "Masterplan",
+     "poster": "https://image.tmdb.org/t/p/w500/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66345-masterplan"
+    },
+    {
+     "id": "tt0111301",
+     "type": "movie",
+     "name": "Street Fighter",
+     "poster": "https://image.tmdb.org/t/p/w500/xQDDHK88Qy3tXl0cIH0BZA0EoBy.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65706-street-fighter"
+    },
+    {
+     "id": "tt37522541",
+     "type": "movie",
+     "name": "Apocalipsis Z: Il Nuovo Mondo",
+     "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66461-apocalipsis-z-il-nuovo-mondo"
+    },
+    {
+     "id": "tt28498219",
+     "type": "movie",
+     "name": "Matchbox: Il film",
+     "poster": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66292-matchbox-il-film"
+    },
+    {
+     "id": "tt35856037",
+     "type": "movie",
+     "name": "Your Mother Your Mother Your Mother",
+     "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66500-your-mother-your-mother-your-mother"
+    },
+    {
+     "id": "tt0380601",
+     "type": "movie",
+     "name": "One Last Shot",
+     "poster": "https://image.tmdb.org/t/p/w500/8jQAGWVcRVpr2uxTjk3ACSO4Q3A.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66156-one-last-shot"
+    },
+    {
+     "id": "tt35067873",
+     "type": "movie",
+     "name": "The Rush - Corsa contro il tempo",
+     "poster": "https://image.tmdb.org/t/p/w500/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66197-the-rush-corsa-contro-il-tempo"
+    },
+    {
+     "id": "tt34564059",
+     "type": "movie",
+     "name": "The Runner",
+     "poster": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65625-the-runner"
+    },
+    {
+     "id": "tt43679852",
+     "type": "movie",
+     "name": "LEGO Star Wars: The Mandalorian",
+     "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65634-lego-star-wars-the-mandalorian"
+    },
+    {
+     "id": "tt28014327",
+     "type": "movie",
+     "name": "Mayday",
+     "poster": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65640-mayday"
+    },
+    {
+     "id": "tt3528810",
+     "type": "movie",
+     "name": "La captura",
+     "poster": "https://image.tmdb.org/t/p/w500/my8euQR37XeJ8lfLz3XgBR03R45.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65516-la-captura"
+    },
+    {
+     "id": "tt32338669",
+     "type": "movie",
+     "name": "Mutiny - Inverti la rotta",
+     "poster": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65543-mutiny-inverti-la-rotta"
+    },
+    {
+     "id": "tt22084616",
+     "type": "movie",
+     "name": "Spider-Man: Brand New Day",
+     "poster": "https://image.tmdb.org/t/p/w500/1GI1iyqqsaykl7LNKVwHLiorDhE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12824-spider-man-brand-new-day"
+    },
+    {
+     "id": "tt36415524",
+     "type": "movie",
+     "name": "The Gentleman Thief",
+     "poster": "https://image.tmdb.org/t/p/w500/dJLz27v39wdrLEsEmNaB6v2sC8z.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65266-the-gentleman-thief"
+    },
+    {
+     "id": "tt18259538",
+     "type": "movie",
+     "name": "Avatar Aang - L'ultimo dominatore dell'aria",
+     "poster": "https://image.tmdb.org/t/p/w500/4Nil4DQfBGymHuL2Q9nQwg27orY.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65235-avatar-aang-lultimo-dominatore-dellaria"
+    },
+    {
+     "id": "tt38682795",
+     "type": "movie",
+     "name": "Ip Man: Oltre la leggenda",
+     "poster": "https://image.tmdb.org/t/p/w500/u2PPx8HODpGlx0tzw5lHKFKN1Bq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66424-ip-man-oltre-la-leggenda"
+    },
+    {
+     "id": "tt7448180",
+     "type": "movie",
+     "name": "The Debt Collector",
+     "poster": "https://image.tmdb.org/t/p/w500/zd2FNkQk3S7W7c6qy3STtYVYlk0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65216-the-debt-collector"
+    },
+    {
+     "id": "tt3153634",
+     "type": "movie",
+     "name": "Hope",
+     "poster": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66581-hope"
+    },
+    {
+     "id": "tt35051162",
+     "type": "movie",
+     "name": "L'oro rubato",
+     "poster": "https://image.tmdb.org/t/p/w500/lUdsMjr3PzIWMAuFD9SPNJTivxp.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66490-loro-rubato"
+    },
+    {
+     "id": "tt39385949",
+     "type": "movie",
+     "name": "Nulla da perdere",
+     "poster": "https://image.tmdb.org/t/p/w500/3dSUKms8A9J1i3OYXXhjSJW4ED9.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65110-nulla-da-perdere"
+    },
+    {
+     "id": "tt34584846",
+     "type": "movie",
+     "name": "Man of War",
+     "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65771-man-of-war"
+    },
+    {
+     "id": "tt33764258",
+     "type": "movie",
+     "name": "The Odyssey",
+     "poster": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65658-the-odyssey"
+    },
+    {
+     "id": "tt39316472",
+     "type": "movie",
+     "name": "Jackass: Best and Last",
+     "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/64445-jackass-best-and-last"
+    },
+    {
+     "id": "tt8814476",
+     "type": "movie",
+     "name": "Supergirl",
+     "poster": "https://image.tmdb.org/t/p/w500/s8JXiMG0skg5onZi49d7n2nuXjs.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60266-supergirl"
+    },
+    {
+     "id": "tt32333324",
+     "type": "movie",
+     "name": "Batman: Knightfall Part 1: Knightfall",
+     "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65612-batman-knightfall-part-1-knightfall"
+    },
+    {
+     "id": "tt36876775",
+     "type": "movie",
+     "name": "Husbands in Action",
+     "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/63789-husbands-in-action"
+    },
+    {
+     "id": "tt32321803",
+     "type": "movie",
+     "name": "La vendetta perfetta - Bear Country",
+     "poster": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65611-la-vendetta-perfetta-bear-country"
+    }
+   ]
+  },
+  {
+   "id": "thriller",
+   "name": "SC – Thriller",
+   "metas": [
+    {
+     "id": "tt0082508",
+     "type": "movie",
+     "name": "Heartland",
+     "poster": "https://image.tmdb.org/t/p/w500/cNLBqiPJE5jpo6PPHKuTFDFfxtj.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66577-heartland"
+    },
+    {
+     "id": "tt1307989",
+     "type": "movie",
+     "name": "Never Surrender",
+     "poster": "https://image.tmdb.org/t/p/w500/3EMaDo7LSbn4kle5hFw4DRIFAK6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66566-never-surrender"
+    },
+    {
+     "id": "tt4944696",
+     "type": "movie",
+     "name": "Colisión",
+     "poster": "https://image.tmdb.org/t/p/w500/5oaS1EJfYCsd0kjZK2W9YaSMUaI.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66460-colision"
+    },
+    {
+     "id": "tt0780504",
+     "type": "movie",
+     "name": "Drive - Cuori in pista",
+     "poster": "https://image.tmdb.org/t/p/w500/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66440-drive-cuori-in-pista"
+    },
+    {
+     "id": "tt13611778",
+     "type": "movie",
+     "name": "The Mongoose",
+     "poster": "https://image.tmdb.org/t/p/w500/qOJrnf5sfPe3zd4E662iFifKpmJ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66426-the-mongoose"
+    },
+    {
+     "id": "tt34890576",
+     "type": "movie",
+     "name": "Clayface",
+     "poster": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65705-clayface"
+    },
+    {
+     "id": "tt2338107",
+     "type": "movie",
+     "name": "Masterplan",
+     "poster": "https://image.tmdb.org/t/p/w500/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66345-masterplan"
+    },
+    {
+     "id": "tt37522541",
+     "type": "movie",
+     "name": "Apocalipsis Z: Il Nuovo Mondo",
+     "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66461-apocalipsis-z-il-nuovo-mondo"
+    },
+    {
+     "id": "tt0397612",
+     "type": "movie",
+     "name": "Animals",
+     "poster": "https://image.tmdb.org/t/p/w500/zaMDxdza6goInr1dnKdRRhIn6Aq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66299-animals"
+    },
+    {
+     "id": "tt32261958",
+     "type": "movie",
+     "name": "Verity",
+     "poster": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66253-verity"
+    },
+    {
+     "id": "tt6933238",
+     "type": "movie",
+     "name": "UNABOMBER",
+     "poster": "https://image.tmdb.org/t/p/w500/fPu7P6SyFqQyMyd1h47ejA2nPXK.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66181-unabomber"
+    },
+    {
+     "id": "tt35856037",
+     "type": "movie",
+     "name": "Your Mother Your Mother Your Mother",
+     "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66500-your-mother-your-mother-your-mother"
+    },
+    {
+     "id": "tt34206385",
+     "type": "movie",
+     "name": "Primetime",
+     "poster": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65707-primetime"
+    },
+    {
+     "id": "tt0380601",
+     "type": "movie",
+     "name": "One Last Shot",
+     "poster": "https://image.tmdb.org/t/p/w500/8jQAGWVcRVpr2uxTjk3ACSO4Q3A.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66156-one-last-shot"
+    },
+    {
+     "id": "tt7526136",
+     "type": "movie",
+     "name": "Heart of the Beast - Nel profondo selvaggio",
+     "poster": "https://image.tmdb.org/t/p/w500/4Ts2SKetkoYuRDRlu29amFZOM5Q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65704-heart-of-the-beast-nel-profondo-selvaggio"
+    },
+    {
+     "id": "tt39453578",
+     "type": "movie",
+     "name": "Un buon avvocato",
+     "poster": "https://image.tmdb.org/t/p/w500/k84V1Y2PiohjN3ic8XzhukydEjm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66541-un-buon-avvocato"
+    },
+    {
+     "id": "tt7091300",
+     "type": "movie",
+     "name": "Bad Apples",
+     "poster": "https://image.tmdb.org/t/p/w500/sasH9EeTPBsJ9xW5PIG7i9Jy3Ou.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66397-bad-apples"
+    },
+    {
+     "id": "tt7653860",
+     "type": "movie",
+     "name": "Marfil - Gli Opposti",
+     "poster": "https://image.tmdb.org/t/p/w500/1LdQjxkI3nGeg5xtKVdlzEro8jf.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65698-marfil-gli-opposti"
+    },
+    {
+     "id": "tt34564059",
+     "type": "movie",
+     "name": "The Runner",
+     "poster": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65625-the-runner"
+    },
+    {
+     "id": "tt31192372",
+     "type": "movie",
+     "name": "Fall 2: Deadpoint",
+     "poster": "https://image.tmdb.org/t/p/w500/b18cPhRwrPr9lvxKTIHf1PsFqVE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66293-fall-2-deadpoint"
+    },
+    {
+     "id": "tt37275992",
+     "type": "movie",
+     "name": "La donna senza passato",
+     "poster": "https://image.tmdb.org/t/p/w500/ygjM2KHwJbUPKmx0uEZ8OdTBc1L.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65590-la-donna-senza-passato"
+    },
+    {
+     "id": "tt11561116",
+     "type": "movie",
+     "name": "L'uomo dei sussurri",
+     "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65585-luomo-dei-sussurri"
+    },
+    {
+     "id": "tt21285562",
+     "type": "movie",
+     "name": "The Dog Stars - Guidati dalle stelle",
+     "poster": "https://image.tmdb.org/t/p/w500/kNzWRhai5eMUC0NuybT4VdisqHF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60270-the-dog-stars-guidati-dalle-stelle"
+    },
+    {
+     "id": "tt3528810",
+     "type": "movie",
+     "name": "La captura",
+     "poster": "https://image.tmdb.org/t/p/w500/my8euQR37XeJ8lfLz3XgBR03R45.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65516-la-captura"
+    },
+    {
+     "id": "tt32338669",
+     "type": "movie",
+     "name": "Mutiny - Inverti la rotta",
+     "poster": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65543-mutiny-inverti-la-rotta"
+    },
+    {
+     "id": "tt1591095",
+     "type": "movie",
+     "name": "Insidious - Fuori dall’Altrove",
+     "poster": "https://image.tmdb.org/t/p/w500/p5HxqSZr6WyXt7ARtK3PPuJehKC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66284-insidious-fuori-dallaltrove"
+    },
+    {
+     "id": "tt27165187",
+     "type": "movie",
+     "name": "La fine di Oak Street",
+     "poster": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60269-la-fine-di-oak-street"
+    },
+    {
+     "id": "tt32268156",
+     "type": "movie",
+     "name": "The Last House",
+     "poster": "https://image.tmdb.org/t/p/w500/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65345-the-last-house"
+    },
+    {
+     "id": "tt0113376",
+     "type": "movie",
+     "name": "Ice Cream Man",
+     "poster": "https://image.tmdb.org/t/p/w500/zUMfAvZdYLLCg6IvgjYV5xedv5d.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66533-ice-cream-man"
+    },
+    {
+     "id": "tt0087622",
+     "type": "movie",
+     "name": "The Lift",
+     "poster": "https://image.tmdb.org/t/p/w500/gNmED4QhejpBTAue3g0wabpMaYp.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65344-the-lift"
+    }
+   ]
+  },
+  {
+   "id": "reality",
+   "name": "SC – Reality",
+   "metas": [
+    {
+     "id": "tt42006761",
+     "type": "series",
+     "name": "La vita segreta delle mogli Mormoni: Orange County",
+     "poster": "https://image.tmdb.org/t/p/w500/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66593-la-vita-segreta-delle-mogli-mormoni-orange-county",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38681829",
+     "type": "series",
+     "name": "L'amore è cieco: Paesi Bassi",
+     "poster": "https://image.tmdb.org/t/p/w500/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66302-lamore-e-cieco-paesi-bassi",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt44877899",
+     "type": "series",
+     "name": "Outside",
+     "poster": "https://image.tmdb.org/t/p/w500/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66227-outside",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41377479",
+     "type": "series",
+     "name": "Team Moms: Baseball",
+     "poster": "https://image.tmdb.org/t/p/w500/4uVnnhJ6z0bNN6c1UzcCp1zGIe7.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66174-team-moms-baseball",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36258621",
+     "type": "series",
+     "name": "Wonka's The Golden Ticket",
+     "poster": "https://image.tmdb.org/t/p/w500/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66168-wonkas-the-golden-ticket",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39390479",
+     "type": "series",
+     "name": "Physical Messico: da 100 a 1",
+     "poster": "https://image.tmdb.org/t/p/w500/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65830-physical-messico-da-100-a-1",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37694172",
+     "type": "series",
+     "name": "Physical Italia: da 100 a 1",
+     "poster": "https://image.tmdb.org/t/p/w500/6g40xT8B2Tv2tGrq7QolksoZnIa.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65733-physical-italia-da-100-a-1",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37610423",
+     "type": "series",
+     "name": "Let's Marry Harry",
+     "poster": "https://image.tmdb.org/t/p/w500/oV3Kr8qV9ta1RYqtk35ajYmrFax.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65697-lets-marry-harry",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41983415",
+     "type": "series",
+     "name": "ESPN Jeopardy!",
+     "poster": "https://image.tmdb.org/t/p/w500/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65305-espn-jeopardy",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt26690964",
+     "type": "series",
+     "name": "Outlast - Gioco di squadra: La giungla",
+     "poster": "https://image.tmdb.org/t/p/w500/xPvFth5XCdF7TfpPOFvMUXYOpsQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/61591-outlast-gioco-di-squadra-la-giungla",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38348835",
+     "type": "series",
+     "name": "Calabasas Confidential",
+     "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59063-calabasas-confidential",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39221314",
+     "type": "series",
+     "name": "The 50 (IT)",
+     "poster": "https://image.tmdb.org/t/p/w500/r7ZPWfdKJJmSjZDOIMQCz3PXjIa.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/58157-the-50-it",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt40826306",
+     "type": "series",
+     "name": "This Is a Gardening Show",
+     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55666-this-is-a-gardening-show",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0096532",
+     "type": "series",
+     "name": "American Gladiators",
+     "poster": "https://image.tmdb.org/t/p/w500/xFWYHXAXrVl1AD9WLOcl7ip3r3Y.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55634-american-gladiators",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36144166",
+     "type": "series",
+     "name": "Love Overboard",
+     "poster": "https://image.tmdb.org/t/p/w500/n0g77r75qL6NpEh2TXZGiOiUTVP.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55408-love-overboard",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37610452",
+     "type": "series",
+     "name": "Age of Attraction",
+     "poster": "https://image.tmdb.org/t/p/w500/86zlBZhuhuE2FlXn8lGxixCQ4aS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55088-age-of-attraction",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35836615",
+     "type": "series",
+     "name": "Blue Therapy",
+     "poster": "https://image.tmdb.org/t/p/w500/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/54984-blue-therapy",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt24132246",
+     "type": "series",
+     "name": "Vicini di casa",
+     "poster": "https://image.tmdb.org/t/p/w500/2mbxgvzZctYKivek1hhHueHZ65i.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/54619-vicini-di-casa",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39961100",
+     "type": "series",
+     "name": "Battle of Fates",
+     "poster": "https://image.tmdb.org/t/p/w500/vhBR39iem2CS2lnibQE0LKgq49S.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/54655-battle-of-fates",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39314120",
+     "type": "series",
+     "name": "Glitter & Gold: la danza su ghiaccio",
+     "poster": "https://image.tmdb.org/t/p/w500/aDiOcFK4leJl8qGT4wYM5yyv2fb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/53188-glitter-and-gold-la-danza-su-ghiaccio",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39093331",
+     "type": "series",
+     "name": "Canada Shore",
+     "poster": "https://image.tmdb.org/t/p/w500/gItzF0zia8qMaAqniM6mhPgbbsl.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/51357-canada-shore",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0085093",
+     "type": "series",
+     "name": "Star Search",
+     "poster": "https://image.tmdb.org/t/p/w500/eMiNCJaox1nT7B2QVKsELpRJSBU.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/52542-star-search",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39373808",
+     "type": "series",
+     "name": "MrBeast: Extreme Survival!",
+     "poster": "https://image.tmdb.org/t/p/w500/pnzaHNqab5ImCcKVLN0Zfd3a27n.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49968-mrbeast-extreme-survival",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt46658083",
+     "type": "series",
+     "name": "Il nuovo esperimento carcerario di Stanford",
+     "poster": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66386-il-nuovo-esperimento-carcerario-di-stanford",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37677376",
+     "type": "series",
+     "name": "Members Only: Palm Beach",
+     "poster": "https://image.tmdb.org/t/p/w500/shteveRMvIbcdlPsMVqqQeCIGOS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49221-members-only-palm-beach",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt31410591",
+     "type": "series",
+     "name": "What's in the Box?",
+     "poster": "https://image.tmdb.org/t/p/w500/riwRl7TPRH8OqMmleaPGtL1VBDC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/47683-whats-in-the-box",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35801873",
+     "type": "series",
+     "name": "Badly in Love",
+     "poster": "https://image.tmdb.org/t/p/w500/fMMh1QUDbgHePRXiEBBAjHKtz5C.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/45284-badly-in-love",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt33806512",
+     "type": "series",
+     "name": "L'amore è cieco: Italia",
+     "poster": "https://image.tmdb.org/t/p/w500/i6IAEwDNjIMl6yhoJE1s78ozxjr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/41748-lamore-e-cieco-italia",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38453174",
+     "type": "series",
+     "name": "Three Idiots in Kenya",
+     "poster": "https://image.tmdb.org/t/p/w500/nRmbIIsX4QIPScDqQ1T46VlwJlw.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/41252-three-idiots-in-kenya",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35664835",
+     "type": "series",
+     "name": "Physical: Asia",
+     "poster": "https://image.tmdb.org/t/p/w500/ju7gvQUWuYfzITgereqAcQ8yX2H.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/31613-physical-asia",
+     "genres": [
+      "Serie TV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "action_adventure",
+   "name": "SC – Action & Adventure",
+   "metas": [
+    {
+     "id": "tt32375763",
+     "type": "series",
+     "name": "12 12 12",
+     "poster": "https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66573-12-12-12",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt45246384",
+     "type": "series",
+     "name": "Amore sotto copertura",
+     "poster": "https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66379-amore-sotto-copertura",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38732131",
+     "type": "series",
+     "name": "Organize Isler: Money Trap",
+     "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66367-organize-isler-money-trap",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt3156640",
+     "type": "series",
+     "name": "L'isola del tesoro",
+     "poster": "https://image.tmdb.org/t/p/w500/goEToIUJhx8JUVW7kdeoT4kg44x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66308-lisola-del-tesoro",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39201866",
+     "type": "series",
+     "name": "100 Days of Deception",
+     "poster": "https://image.tmdb.org/t/p/w500/wf7l8ZfGGkOKcQGF3Htt5DDhBxD.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66333-100-days-of-deception",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35854736",
+     "type": "series",
+     "name": "Avatar: I sette rifugi",
+     "poster": "https://image.tmdb.org/t/p/w500/jY1LtTNzCoXCO5b39KKqeAGWwbC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66304-avatar-i-sette-rifugi",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt31841438",
+     "type": "series",
+     "name": "Preferisco la morte",
+     "poster": "https://image.tmdb.org/t/p/w500/scXiHnUEOHjFEudDdyRJOQYSDw3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66257-preferisco-la-morte",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36064406",
+     "type": "series",
+     "name": "Coven Academy - L'accademia delle streghe",
+     "poster": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66251-coven-academy-laccademia-delle-streghe",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41538904",
+     "type": "series",
+     "name": "LEGO ONE PIECE",
+     "poster": "https://image.tmdb.org/t/p/w500/AuhrT2YLjhcsVUhLg6SS2Ig3EBC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66217-lego-one-piece",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39495239",
+     "type": "series",
+     "name": "黑白清道夫",
+     "poster": "https://image.tmdb.org/t/p/w500/mZ0rPTMe9XfrWRUAeoJzr62cyIa.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65867-the-fixers",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt26545992",
+     "type": "series",
+     "name": "Lanterns",
+     "poster": "https://image.tmdb.org/t/p/w500/sY2gOwvAy1rkYXJWfwNyy605tw0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65492-lanterns",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41734294",
+     "type": "series",
+     "name": "GIGN - Forze speciali",
+     "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65211-gign-forze-speciali",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt13238220",
+     "type": "series",
+     "name": "The East Palace",
+     "poster": "https://image.tmdb.org/t/p/w500/ipD2gmaqUwZzFNoL5MVCrTjSA9x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65196-the-east-palace",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt30494226",
+     "type": "series",
+     "name": "Corri o muori",
+     "poster": "https://image.tmdb.org/t/p/w500/lNCS8rxW7gU0c5LDe3iq7teWBEQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65175-corri-o-muori",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32603995",
+     "type": "series",
+     "name": "Adventure Time: Missioni Leggendarie",
+     "poster": "https://image.tmdb.org/t/p/w500/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66247-adventure-time-missioni-leggendarie",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt21057046",
+     "type": "series",
+     "name": "The Doomies",
+     "poster": "https://image.tmdb.org/t/p/w500/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65524-the-doomies",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt42127457",
+     "type": "series",
+     "name": "Agent Kim Reactivated",
+     "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/64409-agent-kim-reactivated",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt31975855",
+     "type": "series",
+     "name": "Viral Hit",
+     "poster": "https://image.tmdb.org/t/p/w500/biUCx1p4dAImAuqti1caxqKVzE7.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60761-viral-hit",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt21056976",
+     "type": "series",
+     "name": "Dragon Striker",
+     "poster": "https://image.tmdb.org/t/p/w500/a18A8XQPmuEBV6C4lQOdcKaNp09.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60347-dragon-striker",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34809853",
+     "type": "series",
+     "name": "Lezioni vere",
+     "poster": "https://image.tmdb.org/t/p/w500/44iAuz8HkEDCOxjBmF4oogaXjnI.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60285-lezioni-vere",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt30460310",
+     "type": "series",
+     "name": "Spider-Noir",
+     "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55357-spider-noir",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34440854",
+     "type": "series",
+     "name": "The WONDERfools",
+     "poster": "https://image.tmdb.org/t/p/w500/iEaOiYypjeo3BcU2P6Mf3QFIx6K.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56757-the-wonderfools",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32604054",
+     "type": "series",
+     "name": "Regular Show: The Lost Tapes",
+     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56644-regular-show-the-lost-tapes",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34200911",
+     "type": "series",
+     "name": "Rosa Elettrica - In fuga con il nemico",
+     "poster": "https://image.tmdb.org/t/p/w500/6L8mWi31O2SwdX8b3oCLv0S6eJI.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56563-rosa-elettrica-in-fuga-con-il-nemico",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt33265765",
+     "type": "series",
+     "name": "Legends",
+     "poster": "https://image.tmdb.org/t/p/w500/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56490-legends",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27331527",
+     "type": "series",
+     "name": "Man on Fire - Sete di vendetta",
+     "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55730-man-on-fire-sete-di-vendetta",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27486290",
+     "type": "series",
+     "name": "Stranger Things: Storie dal 1985",
+     "poster": "https://image.tmdb.org/t/p/w500/1bBCwSvM8uOcM7YZRLqTOVszQI3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55667-stranger-things-storie-dal-1985",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36594331",
+     "type": "series",
+     "name": "Star Wars: Maul - Shadow Lord",
+     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55527-star-wars-maul-shadow-lord",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt23220752",
+     "type": "series",
+     "name": "Agent from Above",
+     "poster": "https://image.tmdb.org/t/p/w500/mYpBVAPSWDhCMGgsFJMUF9lHNTC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55469-agent-from-above",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0175863",
+     "type": "series",
+     "name": "Lucky Luke",
+     "poster": "https://image.tmdb.org/t/p/w500/3dCO02aOGaKTdwDJaXtqlGa1GlF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55297-lucky-luke",
+     "genres": [
+      "Serie TV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crime",
+   "name": "SC – Crime",
+   "metas": [
+    {
+     "id": "tt44079238",
+     "type": "series",
+     "name": "La legge della bestia",
+     "poster": "https://image.tmdb.org/t/p/w500/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66622-la-legge-della-bestia",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt0959086",
+     "type": "series",
+     "name": "Gordon",
+     "poster": "https://image.tmdb.org/t/p/w500/9kKqbxsXSzW1H6Se46mOcZm7Rhy.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66623-gordon",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt7767538",
+     "type": "series",
+     "name": "Silent Night",
+     "poster": "https://image.tmdb.org/t/p/w500/cJUMJm96OcnPoDqEtL0FfwZ05ZX.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66576-silent-night",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt1307989",
+     "type": "movie",
+     "name": "Never Surrender",
+     "poster": "https://image.tmdb.org/t/p/w500/3EMaDo7LSbn4kle5hFw4DRIFAK6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66566-never-surrender"
+    },
+    {
+     "id": "tt32375763",
+     "type": "series",
+     "name": "12 12 12",
+     "poster": "https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66573-12-12-12",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt12632070",
+     "type": "series",
+     "name": "ChiaroScuro",
+     "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66555-chiaroscuro",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt50817930",
+     "type": "movie",
+     "name": "La figlia indegna: il caso Suzane von Richthofen",
+     "poster": "https://image.tmdb.org/t/p/w500/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66560-la-figlia-indegna-il-caso-suzane-von-richthofen"
+    },
+    {
+     "id": "tt0298684",
+     "type": "series",
+     "name": "Palacio - Sotto assedio",
+     "poster": "https://image.tmdb.org/t/p/w500/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66561-palacio-sotto-assedio",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt10486144",
+     "type": "series",
+     "name": "Nocturne",
+     "poster": "https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66458-nocturne",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt48356732",
+     "type": "series",
+     "name": "Swipe Right on the Devil",
+     "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66396-swipe-right-on-the-devil",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt45246384",
+     "type": "series",
+     "name": "Amore sotto copertura",
+     "poster": "https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66379-amore-sotto-copertura",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38732131",
+     "type": "series",
+     "name": "Organize Isler: Money Trap",
+     "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66367-organize-isler-money-trap",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt2338107",
+     "type": "movie",
+     "name": "Masterplan",
+     "poster": "https://image.tmdb.org/t/p/w500/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66345-masterplan"
+    },
+    {
+     "id": "tt0397612",
+     "type": "movie",
+     "name": "Animals",
+     "poster": "https://image.tmdb.org/t/p/w500/zaMDxdza6goInr1dnKdRRhIn6Aq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66299-animals"
+    },
+    {
+     "id": "tt39328047",
+     "type": "series",
+     "name": "Doctor X: Mafia in White",
+     "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66344-doctor-x-mafia-in-white",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt46066662",
+     "type": "series",
+     "name": "The Serial Killer Connection",
+     "poster": "https://image.tmdb.org/t/p/w500/2QVTk55dw9tMUHDlG4027cOTNOv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66382-the-serial-killer-connection",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt47816221",
+     "type": "series",
+     "name": "The Torment",
+     "poster": "https://image.tmdb.org/t/p/w500/1QHUcRLXQ5N6MemM1j45RMoxM7l.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66249-the-torment",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35856037",
+     "type": "movie",
+     "name": "Your Mother Your Mother Your Mother",
+     "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66500-your-mother-your-mother-your-mother"
+    },
+    {
+     "id": "tt6933238",
+     "type": "movie",
+     "name": "UNABOMBER",
+     "poster": "https://image.tmdb.org/t/p/w500/fPu7P6SyFqQyMyd1h47ejA2nPXK.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66181-unabomber"
+    },
+    {
+     "id": "tt36832679",
+     "type": "series",
+     "name": "Il problema finale",
+     "poster": "https://image.tmdb.org/t/p/w500/hILt9HJjwU6F8KMg8LFWgethuxF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66186-il-problema-finale",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36984433",
+     "type": "series",
+     "name": "S.W.A.T. Exiles",
+     "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66190-swat-exiles",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34206385",
+     "type": "movie",
+     "name": "Primetime",
+     "poster": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65707-primetime"
+    },
+    {
+     "id": "tt30051064",
+     "type": "series",
+     "name": "American Hostage",
+     "poster": "https://image.tmdb.org/t/p/w500/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65876-american-hostage",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39495239",
+     "type": "series",
+     "name": "黑白清道夫",
+     "poster": "https://image.tmdb.org/t/p/w500/mZ0rPTMe9XfrWRUAeoJzr62cyIa.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65867-the-fixers",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt33539520",
+     "type": "series",
+     "name": "Neagley",
+     "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65791-neagley",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32132697",
+     "type": "series",
+     "name": "Route 187",
+     "poster": "https://image.tmdb.org/t/p/w500/lUSFJe9saqsPvaDYqSUYuSFdtM4.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65805-route-187",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt9372398",
+     "type": "series",
+     "name": "Last Seen",
+     "poster": "https://image.tmdb.org/t/p/w500/1Hfzson9qIWnTn6fkIXwkwUuUAr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65696-last-seen",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt11561116",
+     "type": "movie",
+     "name": "L'uomo dei sussurri",
+     "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65585-luomo-dei-sussurri"
+    },
+    {
+     "id": "tt36996011",
+     "type": "series",
+     "name": "Mousetrap - Identità rubata",
+     "poster": "https://image.tmdb.org/t/p/w500/dXpDkHr8mUAabDVPoEstJ3gzSf6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65588-mousetrap-identita-rubata",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37275992",
+     "type": "movie",
+     "name": "La donna senza passato",
+     "poster": "https://image.tmdb.org/t/p/w500/ygjM2KHwJbUPKmx0uEZ8OdTBc1L.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65590-la-donna-senza-passato"
+    }
+   ]
+  },
+  {
+   "id": "commedia",
+   "name": "SC – Commedia",
+   "metas": [
+    {
+     "id": "tt6611324",
+     "type": "movie",
+     "name": "Guarding Stars",
+     "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66626-guarding-stars"
+    },
+    {
+     "id": "tt31844371",
+     "type": "series",
+     "name": "Vienna Game",
+     "poster": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66625-vienna-game",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39161219",
+     "type": "series",
+     "name": "I 12 segni di Valentina",
+     "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66624-i-12-segni-di-valentina",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt47021035",
+     "type": "series",
+     "name": "Cunk on Cinema",
+     "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66592-cunk-on-cinema",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt3786326",
+     "type": "movie",
+     "name": "The Christmas Switch",
+     "poster": "https://image.tmdb.org/t/p/w500/7ZkhHCvMoOw4wdW6nGQShCQH5yS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66565-the-christmas-switch"
+    },
+    {
+     "id": "tt12632070",
+     "type": "series",
+     "name": "ChiaroScuro",
+     "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66555-chiaroscuro",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38515310",
+     "type": "movie",
+     "name": "Un cucciolo per Natale",
+     "poster": "https://image.tmdb.org/t/p/w500/zKJmIJWxxFLKtfylpCYFfeVJ8xZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66499-un-cucciolo-per-natale"
+    },
+    {
+     "id": "tt3012188",
+     "type": "series",
+     "name": "Minimum Wage",
+     "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66423-minimum-wage",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt40444834",
+     "type": "series",
+     "name": "LOL: Chi ride è fuori - Halloween Special",
+     "poster": "https://image.tmdb.org/t/p/w500/z4bqvUYSyTuaAhiQQ2R6i12N9mT.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66401-lol-chi-ride-e-fuori-halloween-special",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39387986",
+     "type": "series",
+     "name": "Grande de España",
+     "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66399-grande-de-espana",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt43655467",
+     "type": "movie",
+     "name": "Ali G: Who Iz I?",
+     "poster": "https://image.tmdb.org/t/p/w500/ivbOIymnvpzE8Em3dnqAMKm9a1p.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66446-ali-g-who-iz-i"
+    },
+    {
+     "id": "tt35926686",
+     "type": "series",
+     "name": "It Gets Worse",
+     "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66394-it-gets-worse",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt21952924",
+     "type": "series",
+     "name": "Phony",
+     "poster": "https://image.tmdb.org/t/p/w500/aS9T8lhaefDpAubyOuwSBn8KYuw.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66380-phony",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt45246384",
+     "type": "series",
+     "name": "Amore sotto copertura",
+     "poster": "https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66379-amore-sotto-copertura",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38732131",
+     "type": "series",
+     "name": "Organize Isler: Money Trap",
+     "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66367-organize-isler-money-trap",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35673115",
+     "type": "series",
+     "name": "Hollywood Arts",
+     "poster": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66336-hollywood-arts",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt29615160",
+     "type": "movie",
+     "name": "The Storm",
+     "poster": "https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66334-the-storm"
+    },
+    {
+     "id": "tt37737331",
+     "type": "series",
+     "name": "Fammi battere il cuore",
+     "poster": "https://image.tmdb.org/t/p/w500/iRpbHcHh7RO6VkkXUAZBl07uE0q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66326-fammi-battere-il-cuore",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt42026819",
+     "type": "series",
+     "name": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+     "poster": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66295-nord-sud-ovest-est-la-leggendaria-storia-degli-883",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38937897",
+     "type": "series",
+     "name": "Merry Berry Love",
+     "poster": "https://image.tmdb.org/t/p/w500/hQBDRu9iPacTEgsn5VlXZp7mqG5.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66285-merry-berry-love",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt28498219",
+     "type": "movie",
+     "name": "Matchbox: Il film",
+     "poster": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66292-matchbox-il-film"
+    },
+    {
+     "id": "tt31841438",
+     "type": "series",
+     "name": "Preferisco la morte",
+     "poster": "https://image.tmdb.org/t/p/w500/scXiHnUEOHjFEudDdyRJOQYSDw3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66257-preferisco-la-morte",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39373684",
+     "type": "series",
+     "name": "Peccato",
+     "poster": "https://image.tmdb.org/t/p/w500/5wN4E7yurz8zOKnaRMs7ooVpf5V.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66246-peccato",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36064406",
+     "type": "series",
+     "name": "Coven Academy - L'accademia delle streghe",
+     "poster": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66251-coven-academy-laccademia-delle-streghe",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt46669647",
+     "type": "series",
+     "name": "Ingorgo",
+     "poster": "https://image.tmdb.org/t/p/w500/i5eRkr7587uemwOLT4OuC2EsKsC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66245-ingorgo",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41538904",
+     "type": "series",
+     "name": "LEGO ONE PIECE",
+     "poster": "https://image.tmdb.org/t/p/w500/AuhrT2YLjhcsVUhLg6SS2Ig3EBC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66217-lego-one-piece",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt9389916",
+     "type": "movie",
+     "name": "Digger",
+     "poster": "https://image.tmdb.org/t/p/w500/sYurH4BVI7eSrJTITU3he9MQvOV.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66254-digger"
+    },
+    {
+     "id": "tt22526100",
+     "type": "movie",
+     "name": "The Love Hypothesis: Il teorema dell'amore",
+     "poster": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66167-the-love-hypothesis-il-teorema-dellamore"
+    },
+    {
+     "id": "tt6773088",
+     "type": "series",
+     "name": "Brothers",
+     "poster": "https://image.tmdb.org/t/p/w500/7Q9aUMSVkMJxpeUVCVzWIFFgMMh.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66161-brothers",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt5646594",
+     "type": "series",
+     "name": "Youth",
+     "poster": "https://image.tmdb.org/t/p/w500/iJBaJVqKcqTej52UKbRvsqCgAVe.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66145-youth",
+     "genres": [
+      "Serie TV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fantascienza",
+   "name": "SC – Fantascienza",
+   "metas": [
+    {
+     "id": "tt1392170",
+     "type": "movie",
+     "name": "Hunger Games - L'alba sulla mietitura",
+     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
+    },
+    {
+     "id": "tt2397619",
+     "type": "movie",
+     "name": "Allen",
+     "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66564-allen"
+    },
+    {
+     "id": "tt34890576",
+     "type": "movie",
+     "name": "Clayface",
+     "poster": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65705-clayface"
+    },
+    {
+     "id": "tt3608918",
+     "type": "movie",
+     "name": "Azzurrina – Oltre il tempo",
+     "poster": "https://image.tmdb.org/t/p/w500/vE5wUj9bCuPjh4SD6u0J6hSITzt.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66549-azzurrina-oltre-il-tempo"
+    },
+    {
+     "id": "tt2872750",
+     "type": "movie",
+     "name": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+     "poster": "https://image.tmdb.org/t/p/w500/5bhAotpzKC4614N5BIpprj11Bvp.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66432-shaun-vita-da-pecora-operazione-zucca"
+    },
+    {
+     "id": "tt0120804",
+     "type": "movie",
+     "name": "Resident Evil",
+     "poster": "https://image.tmdb.org/t/p/w500/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65860-resident-evil"
+    },
+    {
+     "id": "tt37752275",
+     "type": "movie",
+     "name": "Scontro tra Thunderman",
+     "poster": "https://image.tmdb.org/t/p/w500/qpJY9klEWOsFzwnTydXBSO5Nero.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65636-scontro-tra-thunderman"
+    },
+    {
+     "id": "tt43679852",
+     "type": "movie",
+     "name": "LEGO Star Wars: The Mandalorian",
+     "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65634-lego-star-wars-the-mandalorian"
+    },
+    {
+     "id": "tt21285562",
+     "type": "movie",
+     "name": "The Dog Stars - Guidati dalle stelle",
+     "poster": "https://image.tmdb.org/t/p/w500/kNzWRhai5eMUC0NuybT4VdisqHF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60270-the-dog-stars-guidati-dalle-stelle"
+    },
+    {
+     "id": "tt0087167",
+     "type": "movie",
+     "name": "Yellow Mirror",
+     "poster": "https://image.tmdb.org/t/p/w500/575y9kUQoaxL1YeRGOjB7w0g96Q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65571-yellow-mirror"
+    },
+    {
+     "id": "tt27165187",
+     "type": "movie",
+     "name": "La fine di Oak Street",
+     "poster": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60269-la-fine-di-oak-street"
+    },
+    {
+     "id": "tt32268156",
+     "type": "movie",
+     "name": "The Last House",
+     "poster": "https://image.tmdb.org/t/p/w500/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65345-the-last-house"
+    },
+    {
+     "id": "tt22084616",
+     "type": "movie",
+     "name": "Spider-Man: Brand New Day",
+     "poster": "https://image.tmdb.org/t/p/w500/1GI1iyqqsaykl7LNKVwHLiorDhE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12824-spider-man-brand-new-day"
+    },
+    {
+     "id": "tt32654916",
+     "type": "movie",
+     "name": "Soulm8te",
+     "poster": "https://image.tmdb.org/t/p/w500/vBY8NPCRztFxyFdkUanQ1U0kkUP.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65303-soulm8te"
+    },
+    {
+     "id": "tt3153634",
+     "type": "movie",
+     "name": "Hope",
+     "poster": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66581-hope"
+    },
+    {
+     "id": "tt8814476",
+     "type": "movie",
+     "name": "Supergirl",
+     "poster": "https://image.tmdb.org/t/p/w500/s8JXiMG0skg5onZi49d7n2nuXjs.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60266-supergirl"
+    },
+    {
+     "id": "tt32333324",
+     "type": "movie",
+     "name": "Batman: Knightfall Part 1: Knightfall",
+     "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65612-batman-knightfall-part-1-knightfall"
+    },
+    {
+     "id": "tt15047880",
+     "type": "movie",
+     "name": "Disclosure Day",
+     "poster": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60267-disclosure-day"
+    },
+    {
+     "id": "tt0427340",
+     "type": "movie",
+     "name": "Masters of the Universe",
+     "poster": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59166-masters-of-the-universe"
+    },
+    {
+     "id": "tt26657236",
+     "type": "movie",
+     "name": "Backrooms",
+     "poster": "https://image.tmdb.org/t/p/w500/MIINS3Q31PEYGM7d3mwJE5mV4L.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59111-backrooms"
+    },
+    {
+     "id": "tt30825738",
+     "type": "movie",
+     "name": "Star Wars: The Mandalorian and Grogu",
+     "poster": "https://image.tmdb.org/t/p/w500/5lLpyzwp4krJPlQS0xmlzxZ12lF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55668-star-wars-the-mandalorian-and-grogu"
+    },
+    {
+     "id": "tt34385135",
+     "type": "movie",
+     "name": "Colony",
+     "poster": "https://image.tmdb.org/t/p/w500/hDPGsJxo8xX0OyqcMB8xI3RdaF3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65450-colony"
+    },
+    {
+     "id": "tt33249097",
+     "type": "movie",
+     "name": "Affection",
+     "poster": "https://image.tmdb.org/t/p/w500/2wsnByLjHXHOuFGarbX28Y198Da.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66548-affection"
+    },
+    {
+     "id": "tt18212138",
+     "type": "movie",
+     "name": "Kill Code",
+     "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66312-kill-code"
+    },
+    {
+     "id": "tt36841098",
+     "type": "movie",
+     "name": "Discesa negli inferi",
+     "poster": "https://image.tmdb.org/t/p/w500/qLBieiL1BlmH3RZmkiAyudGNiIH.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66324-discesa-negli-inferi"
+    },
+    {
+     "id": "tt12042730",
+     "type": "movie",
+     "name": "L'ultima missione: Project Hail Mary",
+     "poster": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12703-lultima-missione-project-hail-mary"
+    },
+    {
+     "id": "tt32358025",
+     "type": "movie",
+     "name": "CORRIDA DOS BICHOS La legge del branco",
+     "poster": "https://image.tmdb.org/t/p/w500/rfxKM8Zp0j3HrBG8kEaNKhGEeT4.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65346-corrida-dos-bichos-la-legge-del-branco"
+    },
+    {
+     "id": "tt27552099",
+     "type": "movie",
+     "name": "Mike & Nick & Nick & Alice",
+     "poster": "https://image.tmdb.org/t/p/w500/FVYfy7sJLMS4ivsynwBnCWKFgw.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55411-mike-nick-nick-alice"
+    },
+    {
+     "id": "tt37209937",
+     "type": "movie",
+     "name": "Pizza Movie",
+     "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55485-pizza-movie"
+    },
+    {
+     "id": "tt0119431",
+     "type": "movie",
+     "name": "Jumpers - Un salto tra gli animali",
+     "poster": "https://image.tmdb.org/t/p/w500/k6gJLmAVZlEkFTv40YcPIaSBGkn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55244-jumpers-un-salto-tra-gli-animali"
+    }
+   ]
+  },
+  {
+   "id": "sci_fi_fantasy",
+   "name": "SC – Sci-Fi & Fantasy",
+   "metas": [
+    {
+     "id": "tt40706426",
+     "type": "series",
+     "name": "The Body",
+     "poster": "https://image.tmdb.org/t/p/w500/9oexlNHpUaJIaXhwKKsxkcbytPF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66556-the-body",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39957390",
+     "type": "series",
+     "name": "Bass X Machina",
+     "poster": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66489-bass-x-machina",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39325975",
+     "type": "series",
+     "name": "L’imperatrice risposata",
+     "poster": "https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66491-limperatrice-risposata",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36458668",
+     "type": "series",
+     "name": "Dead-End Job",
+     "poster": "https://image.tmdb.org/t/p/w500/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66459-dead-end-job",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39980704",
+     "type": "series",
+     "name": "YAGA",
+     "poster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66402-yaga",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt23112594",
+     "type": "series",
+     "name": "VisionQuest",
+     "poster": "https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66322-visionquest",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35854736",
+     "type": "series",
+     "name": "Avatar: I sette rifugi",
+     "poster": "https://image.tmdb.org/t/p/w500/jY1LtTNzCoXCO5b39KKqeAGWwbC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66304-avatar-i-sette-rifugi",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt37737331",
+     "type": "series",
+     "name": "Fammi battere il cuore",
+     "poster": "https://image.tmdb.org/t/p/w500/iRpbHcHh7RO6VkkXUAZBl07uE0q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66326-fammi-battere-il-cuore",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt41538904",
+     "type": "series",
+     "name": "LEGO ONE PIECE",
+     "poster": "https://image.tmdb.org/t/p/w500/AuhrT2YLjhcsVUhLg6SS2Ig3EBC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66217-lego-one-piece",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32149571",
+     "type": "series",
+     "name": "Golden Axe",
+     "poster": "https://image.tmdb.org/t/p/w500/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65807-golden-axe",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt26545992",
+     "type": "series",
+     "name": "Lanterns",
+     "poster": "https://image.tmdb.org/t/p/w500/sY2gOwvAy1rkYXJWfwNyy605tw0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65492-lanterns",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27497393",
+     "type": "series",
+     "name": "Stuart Fails to Save the Universe",
+     "poster": "https://image.tmdb.org/t/p/w500/rtMM8UsRqXwWguULzjgC1mhL953.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60263-stuart-fails-to-save-the-universe",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt40247521",
+     "type": "series",
+     "name": "Spooky in Love",
+     "poster": "https://image.tmdb.org/t/p/w500/yBNT4FtxHyUjrnQmmZ3kkXMov4u.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65202-spooky-in-love",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt13238220",
+     "type": "series",
+     "name": "The East Palace",
+     "poster": "https://image.tmdb.org/t/p/w500/ipD2gmaqUwZzFNoL5MVCrTjSA9x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65196-the-east-palace",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt33083249",
+     "type": "series",
+     "name": "Human Vapor",
+     "poster": "https://image.tmdb.org/t/p/w500/vmiUG2FLxhYlIyiGlc56ydjesZo.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/64446-human-vapor",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32603995",
+     "type": "series",
+     "name": "Adventure Time: Missioni Leggendarie",
+     "poster": "https://image.tmdb.org/t/p/w500/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66247-adventure-time-missioni-leggendarie",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt21057046",
+     "type": "series",
+     "name": "The Doomies",
+     "poster": "https://image.tmdb.org/t/p/w500/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65524-the-doomies",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt21056976",
+     "type": "series",
+     "name": "Dragon Striker",
+     "poster": "https://image.tmdb.org/t/p/w500/a18A8XQPmuEBV6C4lQOdcKaNp09.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60347-dragon-striker",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32140872",
+     "type": "series",
+     "name": "Star City",
+     "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59060-star-city",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt14690136",
+     "type": "series",
+     "name": "Mating Season",
+     "poster": "https://image.tmdb.org/t/p/w500/5Pn7R2TtLka8OjsgtxAq4H2apjJ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/58222-mating-season",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27557289",
+     "type": "series",
+     "name": "The Boroughs",
+     "poster": "https://image.tmdb.org/t/p/w500/nfuy7JjuNWRYHjCyU3VGTNEK5rA.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/57932-the-boroughs",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt34440854",
+     "type": "series",
+     "name": "The WONDERfools",
+     "poster": "https://image.tmdb.org/t/p/w500/iEaOiYypjeo3BcU2P6Mf3QFIx6K.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56757-the-wonderfools",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt32604054",
+     "type": "series",
+     "name": "Regular Show: The Lost Tapes",
+     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56644-regular-show-the-lost-tapes",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt38828946",
+     "type": "series",
+     "name": "La mia nobile nemica",
+     "poster": "https://image.tmdb.org/t/p/w500/q3oC3rEnyoNXw7LokYRqJLgZ01N.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56575-la-mia-nobile-nemica",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt27486290",
+     "type": "series",
+     "name": "Stranger Things: Storie dal 1985",
+     "poster": "https://image.tmdb.org/t/p/w500/1bBCwSvM8uOcM7YZRLqTOVszQI3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55667-stranger-things-storie-dal-1985",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt9257258",
+     "type": "series",
+     "name": "Kevin",
+     "poster": "https://image.tmdb.org/t/p/w500/wW8j4xiU27ZClUpkSP6si3x8BHA.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55660-kevin",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt10970762",
+     "type": "series",
+     "name": "The Testaments",
+     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55546-the-testaments",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36594331",
+     "type": "series",
+     "name": "Star Wars: Maul - Shadow Lord",
+     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55527-star-wars-maul-shadow-lord",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt23220752",
+     "type": "series",
+     "name": "Agent from Above",
+     "poster": "https://image.tmdb.org/t/p/w500/mYpBVAPSWDhCMGgsFJMUF9lHNTC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55469-agent-from-above",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt35848827",
+     "type": "series",
+     "name": "Boyfriend on Demand",
+     "poster": "https://image.tmdb.org/t/p/w500/hqIXo0s2gof6UxWDWeiP4d3rMr0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55015-boyfriend-on-demand",
+     "genres": [
+      "Serie TV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "horror",
+   "name": "SC – Horror",
+   "metas": [
+    {
+     "id": "tt43663295",
+     "type": "movie",
+     "name": "A Story of Derry",
+     "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66468-a-story-of-derry"
+    },
+    {
+     "id": "tt34890576",
+     "type": "movie",
+     "name": "Clayface",
+     "poster": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65705-clayface"
+    },
+    {
+     "id": "tt37522541",
+     "type": "movie",
+     "name": "Apocalipsis Z: Il Nuovo Mondo",
+     "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66461-apocalipsis-z-il-nuovo-mondo"
+    },
+    {
+     "id": "tt1211899",
+     "type": "movie",
+     "name": "Mammina",
+     "poster": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66598-mammina"
+    },
+    {
+     "id": "tt43665190",
+     "type": "movie",
+     "name": "Family Guy Happy Hell-o-ween",
+     "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66274-family-guy-happy-hell-o-ween"
+    },
+    {
+     "id": "tt0120804",
+     "type": "movie",
+     "name": "Resident Evil",
+     "poster": "https://image.tmdb.org/t/p/w500/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65860-resident-evil"
+    },
+    {
+     "id": "tt1591095",
+     "type": "movie",
+     "name": "Insidious - Fuori dall’Altrove",
+     "poster": "https://image.tmdb.org/t/p/w500/p5HxqSZr6WyXt7ARtK3PPuJehKC.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66284-insidious-fuori-dallaltrove"
+    },
+    {
+     "id": "tt32268156",
+     "type": "movie",
+     "name": "The Last House",
+     "poster": "https://image.tmdb.org/t/p/w500/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65345-the-last-house"
+    },
+    {
+     "id": "tt35298123",
+     "type": "movie",
+     "name": "Camp Miasma - Adolescenza, sesso e morte",
+     "poster": "https://image.tmdb.org/t/p/w500/xZWqIdTlHhsqHFXPyt4WSe4pNvw.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65411-camp-miasma-adolescenza-sesso-e-morte"
+    },
+    {
+     "id": "tt0113376",
+     "type": "movie",
+     "name": "Ice Cream Man",
+     "poster": "https://image.tmdb.org/t/p/w500/zUMfAvZdYLLCg6IvgjYV5xedv5d.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66533-ice-cream-man"
+    },
+    {
+     "id": "tt32654916",
+     "type": "movie",
+     "name": "Soulm8te",
+     "poster": "https://image.tmdb.org/t/p/w500/vBY8NPCRztFxyFdkUanQ1U0kkUP.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65303-soulm8te"
+    },
+    {
+     "id": "tt36958312",
+     "type": "movie",
+     "name": "La bocca del diavolo",
+     "poster": "https://image.tmdb.org/t/p/w500/cr2B7TDlwajwUjRDreX4Yz6vhZ7.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65263-la-bocca-del-diavolo"
+    },
+    {
+     "id": "tt30887701",
+     "type": "movie",
+     "name": "Pinocchio: Unstrung",
+     "poster": "https://image.tmdb.org/t/p/w500/c8IC2lORaymJyTuYwCqhN25vMx8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65505-pinocchio-unstrung"
+    },
+    {
+     "id": "tt8038682",
+     "type": "movie",
+     "name": "La casa - Il rogo del Male",
+     "poster": "https://image.tmdb.org/t/p/w500/codBdsgGKrRTdf8UTZuhgZCCpO5.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65316-la-casa-il-rogo-del-male"
+    },
+    {
+     "id": "tt0175142",
+     "type": "movie",
+     "name": "Scary Movie",
+     "poster": "https://image.tmdb.org/t/p/w500/uApRAE1qFYLdaSeGbrCjJa2aDlx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59237-scary-movie"
+    },
+    {
+     "id": "tt0203612",
+     "type": "movie",
+     "name": "Pitfall",
+     "poster": "https://image.tmdb.org/t/p/w500/yR0cfconHWBCvy6RLjCmtaOUDGq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60277-pitfall"
+    },
+    {
+     "id": "tt26657236",
+     "type": "movie",
+     "name": "Backrooms",
+     "poster": "https://image.tmdb.org/t/p/w500/MIINS3Q31PEYGM7d3mwJE5mV4L.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59111-backrooms"
+    },
+    {
+     "id": "tt41604789",
+     "type": "movie",
+     "name": "Chum: Esca mortale",
+     "poster": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65638-chum-esca-mortale"
+    },
+    {
+     "id": "tt34385135",
+     "type": "movie",
+     "name": "Colony",
+     "poster": "https://image.tmdb.org/t/p/w500/hDPGsJxo8xX0OyqcMB8xI3RdaF3.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65450-colony"
+    },
+    {
+     "id": "tt33763941",
+     "type": "movie",
+     "name": "Passenger",
+     "poster": "https://image.tmdb.org/t/p/w500/vqtX2uwAq4ziVR3V3aC2yqypR9k.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/57904-passenger"
+    },
+    {
+     "id": "tt37287335",
+     "type": "movie",
+     "name": "Obsession",
+     "poster": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59127-obsession"
+    },
+    {
+     "id": "tt33249097",
+     "type": "movie",
+     "name": "Affection",
+     "poster": "https://image.tmdb.org/t/p/w500/2wsnByLjHXHOuFGarbX28Y198Da.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66548-affection"
+    },
+    {
+     "id": "tt2180339",
+     "type": "movie",
+     "name": "Deep Water - Incubo degli abissi",
+     "poster": "https://image.tmdb.org/t/p/w500/zCrWbSPIxUHIpFbnwtgViHO9Fqb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66523-deep-water-incubo-degli-abissi"
+    },
+    {
+     "id": "tt35672862",
+     "type": "movie",
+     "name": "Hokum",
+     "poster": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55747-hokum"
+    },
+    {
+     "id": "tt9000310",
+     "type": "movie",
+     "name": "Ghost in the Cell",
+     "poster": "https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66315-ghost-in-the-cell"
+    },
+    {
+     "id": "tt32612507",
+     "type": "movie",
+     "name": "Lee Cronin - La Mummia",
+     "poster": "https://image.tmdb.org/t/p/w500/kMSo4HqiK1MQ20HhLX8UoNrprZw.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55708-lee-cronin-la-mummia"
+    },
+    {
+     "id": "tt39833109",
+     "type": "movie",
+     "name": "Salmokji: Whispering Water",
+     "poster": "https://image.tmdb.org/t/p/w500/uVJyWlSPCWftRUXRM6lxTqOzPY6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65586-salmokji-whispering-water"
+    },
+    {
+     "id": "tt36841098",
+     "type": "movie",
+     "name": "Discesa negli inferi",
+     "poster": "https://image.tmdb.org/t/p/w500/qLBieiL1BlmH3RZmkiAyudGNiIH.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66324-discesa-negli-inferi"
+    },
+    {
+     "id": "tt30691214",
+     "type": "movie",
+     "name": "Frutti proibiti",
+     "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65844-frutti-proibiti"
+    },
+    {
+     "id": "tt31728330",
+     "type": "movie",
+     "name": "Ti uccideranno",
+     "poster": "https://image.tmdb.org/t/p/w500/jCe5etBmMuTf2TXgYvv0EDUj4BZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55386-ti-uccideranno"
+    }
+   ]
+  },
+  {
+   "id": "avventura",
+   "name": "SC – Avventura",
+   "metas": [
+    {
+     "id": "tt1392170",
+     "type": "movie",
+     "name": "Hunger Games - L'alba sulla mietitura",
+     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
+    },
+    {
+     "id": "tt2056785",
+     "type": "movie",
+     "name": "Wildwood - I segreti del bosco proibito",
+     "poster": "https://image.tmdb.org/t/p/w500/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65703-wildwood-i-segreti-del-bosco-proibito"
+    },
+    {
+     "id": "tt3608918",
+     "type": "movie",
+     "name": "Azzurrina – Oltre il tempo",
+     "poster": "https://image.tmdb.org/t/p/w500/vE5wUj9bCuPjh4SD6u0J6hSITzt.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66549-azzurrina-oltre-il-tempo"
+    },
+    {
+     "id": "tt28498219",
+     "type": "movie",
+     "name": "Matchbox: Il film",
+     "poster": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66292-matchbox-il-film"
+    },
+    {
+     "id": "tt37850679",
+     "type": "movie",
+     "name": "Spidey and the Avengers: Halloween Team-Up!",
+     "poster": "https://image.tmdb.org/t/p/w500/aMJzzyjm7WFFqswdmws6Ovo0AQ0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66199-spidey-and-the-avengers-halloween-team-up"
+    },
+    {
+     "id": "tt7526136",
+     "type": "movie",
+     "name": "Heart of the Beast - Nel profondo selvaggio",
+     "poster": "https://image.tmdb.org/t/p/w500/4Ts2SKetkoYuRDRlu29amFZOM5Q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65704-heart-of-the-beast-nel-profondo-selvaggio"
+    },
+    {
+     "id": "tt0120804",
+     "type": "movie",
+     "name": "Resident Evil",
+     "poster": "https://image.tmdb.org/t/p/w500/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65860-resident-evil"
+    },
+    {
+     "id": "tt36583977",
+     "type": "movie",
+     "name": "L'isola dei ricordi",
+     "poster": "https://image.tmdb.org/t/p/w500/rW3jfRshl81gZAZsUwIvelhSvbr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66528-lisola-dei-ricordi"
+    },
+    {
+     "id": "tt43679852",
+     "type": "movie",
+     "name": "LEGO Star Wars: The Mandalorian",
+     "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65634-lego-star-wars-the-mandalorian"
+    },
+    {
+     "id": "tt28014327",
+     "type": "movie",
+     "name": "Mayday",
+     "poster": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65640-mayday"
+    },
+    {
+     "id": "tt21285562",
+     "type": "movie",
+     "name": "The Dog Stars - Guidati dalle stelle",
+     "poster": "https://image.tmdb.org/t/p/w500/kNzWRhai5eMUC0NuybT4VdisqHF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60270-the-dog-stars-guidati-dalle-stelle"
+    },
+    {
+     "id": "tt1756855",
+     "type": "movie",
+     "name": "Coyote vs. Acme",
+     "poster": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65672-coyote-vs-acme"
+    },
+    {
+     "id": "tt22084616",
+     "type": "movie",
+     "name": "Spider-Man: Brand New Day",
+     "poster": "https://image.tmdb.org/t/p/w500/1GI1iyqqsaykl7LNKVwHLiorDhE.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/12824-spider-man-brand-new-day"
+    },
+    {
+     "id": "tt18259538",
+     "type": "movie",
+     "name": "Avatar Aang - L'ultimo dominatore dell'aria",
+     "poster": "https://image.tmdb.org/t/p/w500/4Nil4DQfBGymHuL2Q9nQwg27orY.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65235-avatar-aang-lultimo-dominatore-dellaria"
+    },
+    {
+     "id": "tt11832046",
+     "type": "movie",
+     "name": "PAW Patrol - Missione Dinosauri",
+     "poster": "https://image.tmdb.org/t/p/w500/nFghIq5kq7rFsYfn5ChkVOlaGNr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66157-paw-patrol-missione-dinosauri"
+    },
+    {
+     "id": "tt0211555",
+     "type": "movie",
+     "name": "Odissea",
+     "poster": "https://image.tmdb.org/t/p/w500/st5bq62sf8rAvcVipODHl7WTPcv.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55355-odissea"
+    },
+    {
+     "id": "tt1199787",
+     "type": "movie",
+     "name": "Oceania",
+     "poster": "https://image.tmdb.org/t/p/w500/qGBsnlY3I4oCralPHjWfiZXXvWX.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60268-oceania"
+    },
+    {
+     "id": "tt33764258",
+     "type": "movie",
+     "name": "The Odyssey",
+     "poster": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65658-the-odyssey"
+    },
+    {
+     "id": "tt32278481",
+     "type": "movie",
+     "name": "Enola Holmes 3",
+     "poster": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60262-enola-holmes-3"
+    },
+    {
+     "id": "tt32890033",
+     "type": "movie",
+     "name": "Minions & Monsters",
+     "poster": "https://image.tmdb.org/t/p/w500/hDfC9WQin91nqgAOpmyiuKf6uZS.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/64353-minions-monsters"
+    },
+    {
+     "id": "tt8814476",
+     "type": "movie",
+     "name": "Supergirl",
+     "poster": "https://image.tmdb.org/t/p/w500/s8JXiMG0skg5onZi49d7n2nuXjs.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60266-supergirl"
+    },
+    {
+     "id": "tt32333324",
+     "type": "movie",
+     "name": "Batman: Knightfall Part 1: Knightfall",
+     "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65612-batman-knightfall-part-1-knightfall"
+    },
+    {
+     "id": "tt0955308",
+     "type": "movie",
+     "name": "Robin Hood - Il prezzo del sangue",
+     "poster": "https://image.tmdb.org/t/p/w500/dXIFYV8PR8WS5nnxspSFnMdZIGZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65215-robin-hood-il-prezzo-del-sangue"
+    },
+    {
+     "id": "tt30825738",
+     "type": "movie",
+     "name": "Star Wars: The Mandalorian and Grogu",
+     "poster": "https://image.tmdb.org/t/p/w500/5lLpyzwp4krJPlQS0xmlzxZ12lF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55668-star-wars-the-mandalorian-and-grogu"
+    },
+    {
+     "id": "tt41367695",
+     "type": "movie",
+     "name": "Volo notturno per Los Angeles",
+     "poster": "https://image.tmdb.org/t/p/w500/vAHBciNtxN3l4sPob8n0BHXnvQr.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/59061-volo-notturno-per-los-angeles"
+    },
+    {
+     "id": "tt17490712",
+     "type": "movie",
+     "name": "Mortal Kombat II",
+     "poster": "https://image.tmdb.org/t/p/w500/vKKOUvWkofWt8x62I7utwj7ouLB.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/56504-mortal-kombat-ii"
+    },
+    {
+     "id": "tt29552248",
+     "type": "movie",
+     "name": "Swapped - Al tuo posto",
+     "poster": "https://image.tmdb.org/t/p/w500/uCRXsCpMZJDrxAAXJC2xHOz6r9T.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55737-swapped-al-tuo-posto"
+    },
+    {
+     "id": "tt2180339",
+     "type": "movie",
+     "name": "Deep Water - Incubo degli abissi",
+     "poster": "https://image.tmdb.org/t/p/w500/zCrWbSPIxUHIpFbnwtgViHO9Fqb.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66523-deep-water-incubo-degli-abissi"
+    },
+    {
+     "id": "tt36283691",
+     "type": "movie",
+     "name": "Alla Festa della Rivoluzione",
+     "poster": "https://image.tmdb.org/t/p/w500/oJRZTmYehaXvs3CJVIopPVQKtw6.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65274-alla-festa-della-rivoluzione"
+    },
+    {
+     "id": "tt2078718",
+     "type": "movie",
+     "name": "Sacrifice",
+     "poster": "https://image.tmdb.org/t/p/w500/9n4X9SiSBqalMbqxjnr3IyxvzRo.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66464-sacrifice"
+    }
+   ]
+  }
+ ]
+}

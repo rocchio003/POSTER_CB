@@ -1,88 +1,88 @@
 {
  "metas": [
   {
+   "id": "tt0081510",
+   "type": "movie",
+   "name": "Sierra Madre",
+   "poster": "https://image.tmdb.org/t/p/w500/iTGpG2aRTdi3Oo7jryByu9o6qei.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/sierra-madre-linea-di-fuoco-hd-2026/"
+  },
+  {
+   "id": "tt0373209",
+   "type": "movie",
+   "name": "Operation Kabul",
+   "poster": "https://image.tmdb.org/t/p/w500/rHOTaT34vaxzN7TAzgSWHiqCA5p.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/operation-kabul-2025/"
+  },
+  {
+   "id": "tt0311864",
+   "type": "movie",
+   "name": "Steps",
+   "poster": "https://image.tmdb.org/t/p/w500/hKj6FZo9p14qWti7fJ366VPuPvM.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/steps-hd-2026/"
+  },
+  {
+   "id": "tt33402927",
+   "type": "movie",
+   "name": "A nome di mio figlio",
+   "poster": "https://image.tmdb.org/t/p/w500/z8whdMy00gGskrqSfeuGfE98pGH.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/a-nome-di-mio-figlio-hd-2026/"
+  },
+  {
+   "id": "tt18351090",
+   "type": "movie",
+   "name": "Perfetti bugiardi",
+   "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/perfetti-bugiardi-hd-2026/"
+  },
+  {
+   "id": "tt50016818",
+   "type": "movie",
+   "name": "Profumo di bergamotto",
+   "poster": "https://image.tmdb.org/t/p/w500/kq5ihVEqv7NT1eJVfupYqLNWDxG.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/profumo-di-bergamotto-hd-2026/"
+  },
+  {
+   "id": "tt6902560",
+   "type": "movie",
+   "name": "Sangue vuole sangue",
+   "poster": "https://image.tmdb.org/t/p/w500/6mtbVmbCTMojraQxiD7R5N6jDPr.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/sangue-vuole-sangue-hd-2025/"
+  },
+  {
+   "id": "tt35672862",
+   "type": "movie",
+   "name": "Hokum",
+   "poster": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/hokum-hd-2026/"
+  },
+  {
+   "id": "tt36580119",
+   "type": "movie",
+   "name": "La torta del Presidente",
+   "poster": "https://image.tmdb.org/t/p/w500/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/la-torta-del-presidente-hd-2025/"
+  },
+  {
    "id": "tt6611324",
    "type": "movie",
    "name": "Guarding Stars",
    "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/guarding-stars-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/guarding-stars-hd-2026/"
   },
   {
    "id": "tt26913427",
    "type": "movie",
    "name": "Madden",
    "poster": "https://image.tmdb.org/t/p/w500/92Tb7o4OsRgxuOvK3ROs9T6QE24.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/madden-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/madden-hd-2026/"
   },
   {
    "id": "tt31830814",
    "type": "movie",
    "name": "Forgive Us All",
    "poster": "https://image.tmdb.org/t/p/w500/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/forgive-us-all-hd-2025/"
-  },
-  {
-   "id": "tt1211899",
-   "type": "movie",
-   "name": "Mammina",
-   "poster": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/mammina-hd-2026/"
-  },
-  {
-   "id": "tt0955308",
-   "type": "movie",
-   "name": "Robin Hood",
-   "poster": "https://image.tmdb.org/t/p/w500/dXIFYV8PR8WS5nnxspSFnMdZIGZ.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/robin-hood-il-prezzo-del-sangue-hd-2026/"
-  },
-  {
-   "id": "tt0082508",
-   "type": "movie",
-   "name": "Heartland",
-   "poster": "https://image.tmdb.org/t/p/w500/cNLBqiPJE5jpo6PPHKuTFDFfxtj.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/heartland-hd-2026/"
-  },
-  {
-   "id": "tt15095848",
-   "type": "movie",
-   "name": "Being Heumann",
-   "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/being-heumann-hd-2026/"
-  },
-  {
-   "id": "tt34254116",
-   "type": "movie",
-   "name": "La mia strana scuola",
-   "poster": "https://image.tmdb.org/t/p/w500/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/la-mia-strana-scuola-hd-2025/"
-  },
-  {
-   "id": "tt34724686",
-   "type": "movie",
-   "name": "Bagarre",
-   "poster": "https://image.tmdb.org/t/p/w500/eyAHz4hkJNIDk5FzZUCCnq6bP43.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/bagarre-hd-2026/"
-  },
-  {
-   "id": "tt3153634",
-   "type": "movie",
-   "name": "Hope",
-   "poster": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/hope-hd-2026/"
-  },
-  {
-   "id": "tt27550504",
-   "type": "movie",
-   "name": "Plainclothes",
-   "poster": "https://image.tmdb.org/t/p/w500/bT5QN5QARV5TblAt9jDVQQsnSec.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/plainclothes-hd-2025/"
-  },
-  {
-   "id": "tt34706535",
-   "type": "movie",
-   "name": "Nessuna tregua",
-   "poster": "https://image.tmdb.org/t/p/w500/fswUkvbkmWHQwBu6nJtZHaqkkLG.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.watch/nessuna-tregua-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/forgive-us-all-hd-2025/"
   }
  ]
 }

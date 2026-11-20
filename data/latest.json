@@ -1,74 +1,74 @@
 {
  "metas": [
   {
+   "id": "tt38354914",
+   "type": "movie",
+   "name": "Come il giorno e la notte",
+   "poster": "https://image.tmdb.org/t/p/w500/h3faaQcnwTBz9YSnBtB5OnEzPTq.jpg",
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/come-il-giorno-e-la-notte-hd-2026/"
+  },
+  {
+   "id": "tt27837355",
+   "type": "movie",
+   "name": "Timor",
+   "poster": "https://image.tmdb.org/t/p/w500/9fdGmkXZQL1nPuWS5JyrWvIgWLy.jpg",
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/timor-finche-ce-morte-ce-speranza-2024/"
+  },
+  {
+   "id": "cb01m68747470733a2f2f636230316f6e652e6c6976652f73636170706172652d6e6f6e2d73657276652d323031382f",
+   "type": "movie",
+   "name": "Scappare non serve",
+   "poster": "https://cb01one.live/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-50.jpg",
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/scappare-non-serve-2018/"
+  },
+  {
+   "id": "tt6560672",
+   "type": "movie",
+   "name": "Jill",
+   "poster": "https://image.tmdb.org/t/p/w500/yV67AaJuFkbUoRowMo8i1QQnK4c.jpg",
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/jill-2021/"
+  },
+  {
    "id": "tt4847126",
    "type": "movie",
    "name": "Il volo",
    "poster": "https://image.tmdb.org/t/p/w500/ao6yl6jXenvz4SUNxjpOsAqAizn.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/il-volo-hd-1986/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/il-volo-hd-1986/"
   },
   {
    "id": "tt0114084",
    "type": "movie",
    "name": "Panther",
    "poster": "https://image.tmdb.org/t/p/w500/gxGOkt6WBhSIdZiQqyVEccRURVv.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/panther-1995/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/panther-1995/"
   },
   {
    "id": "tt0062182",
    "type": "movie",
    "name": "Il grido di guerra dei sioux",
    "poster": "https://image.tmdb.org/t/p/w500/vt22vvQVCwlmR2XQCvFDoBubPc9.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/il-grido-di-guerra-dei-sioux-1967/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/il-grido-di-guerra-dei-sioux-1967/"
   },
   {
    "id": "tt5147214",
    "type": "movie",
    "name": "Headshot",
    "poster": "https://image.tmdb.org/t/p/w500/pobssUBo48dBsdi3XW98Pmagj7u.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/headshot-2023/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/headshot-2023/"
   },
   {
    "id": "tt0113948",
    "type": "movie",
    "name": "Cyborg Terminator 2",
    "poster": "https://image.tmdb.org/t/p/w500/dfBROAe2wXgbB7NbksvVvT49vZW.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/cyborg-terminator-2-1995/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/cyborg-terminator-2-1995/"
   },
   {
    "id": "tt7397958",
    "type": "movie",
    "name": "Quelli che lavorano",
    "poster": "https://image.tmdb.org/t/p/w500/tM4qXipwgHeiw8mN2JyWPBCSvk8.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/quelli-che-lavorano-2018/"
-  },
-  {
-   "id": "tt1196645",
-   "type": "movie",
-   "name": "Istantanea per un delitto",
-   "poster": "https://image.tmdb.org/t/p/w500/grgo1jHlE72pEZqW74kAruRZjA0.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/istantanea-per-un-delitto-1975/"
-  },
-  {
-   "id": "tt0063090",
-   "type": "movie",
-   "name": "Korang",
-   "poster": "https://image.tmdb.org/t/p/w500/8TnGVV6KXUve5RCyPkZ9BgN876X.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/korang-la-terrificante-bestia-umana-hd-1969/"
-  },
-  {
-   "id": "tt0070370",
-   "type": "movie",
-   "name": "La mano spietata della legge",
-   "poster": "https://image.tmdb.org/t/p/w500/5n5TY3SRG9RAQsS1RzuU1eUjMle.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/la-mano-spietata-della-legge-1973/"
-  },
-  {
-   "id": "tt27372066",
-   "type": "movie",
-   "name": "La via maestra",
-   "poster": "https://image.tmdb.org/t/p/w500/cGvtei1xQpDrtQzSGAhkh8mUnuL.jpg",
-   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.watch/la-via-maestra-2023/"
+   "description": "Ultimo aggiunto su CB01.\nPagina originale: https://cb01one.live/quelli-che-lavorano-2018/"
   }
  ]
 }

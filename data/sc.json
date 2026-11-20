@@ -5,6 +5,26 @@
    "name": "SC – I titoli del momento",
    "metas": [
     {
+     "id": "tt12324366",
+     "type": "series",
+     "name": "Percy Jackson e gli dei dell'Olimpo",
+     "poster": "https://image.tmdb.org/t/p/w500/5F8jCK2bFI6VBhDVxJ83gAZcGV2.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/7166-percy-jackson-e-gli-dei-dellolimpo",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt11041332",
+     "type": "series",
+     "name": "Yellowjackets",
+     "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/4242-yellowjackets",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
      "id": "tt9581768",
      "type": "series",
      "name": "The Circle: USA",
@@ -70,6 +90,16 @@
      "name": "Campus Drivers",
      "poster": "https://image.tmdb.org/t/p/w500/6VyMtqsIQ23AfYM11KZxRVDyGkH.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66521-campus-drivers",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt45114341",
+     "type": "series",
+     "name": "Melania Rea",
+     "poster": "https://image.tmdb.org/t/p/w500/yK9Q4ORFEHEaqFRthTlC9jdU0Ac.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66520-melania-rea",
      "genres": [
       "Serie TV"
      ]
@@ -261,33 +291,6 @@
      "genres": [
       "Serie TV"
      ]
-    },
-    {
-     "id": "tt23112594",
-     "type": "series",
-     "name": "VisionQuest",
-     "poster": "https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66322-visionquest",
-     "genres": [
-      "Serie TV"
-     ]
-    },
-    {
-     "id": "tt3156640",
-     "type": "series",
-     "name": "L'isola del tesoro",
-     "poster": "https://image.tmdb.org/t/p/w500/goEToIUJhx8JUVW7kdeoT4kg44x.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66308-lisola-del-tesoro",
-     "genres": [
-      "Serie TV"
-     ]
-    },
-    {
-     "id": "tt37522541",
-     "type": "movie",
-     "name": "Apocalipsis Z: Il Nuovo Mondo",
-     "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66461-apocalipsis-z-il-nuovo-mondo"
     }
    ]
   },
@@ -295,13 +298,6 @@
    "id": "azione",
    "name": "SC – Azione",
    "metas": [
-    {
-     "id": "tt1392170",
-     "type": "movie",
-     "name": "Hunger Games - L'alba sulla mietitura",
-     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
-    },
     {
      "id": "tt1307989",
      "type": "movie",
@@ -366,13 +362,6 @@
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66197-the-rush-corsa-contro-il-tempo"
     },
     {
-     "id": "tt34564059",
-     "type": "movie",
-     "name": "The Runner",
-     "poster": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65625-the-runner"
-    },
-    {
      "id": "tt43679852",
      "type": "movie",
      "name": "LEGO Star Wars: The Mandalorian",
@@ -385,6 +374,13 @@
      "name": "Mayday",
      "poster": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65640-mayday"
+    },
+    {
+     "id": "tt34564059",
+     "type": "movie",
+     "name": "The Runner",
+     "poster": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65625-the-runner"
     },
     {
      "id": "tt3528810",
@@ -504,6 +500,13 @@
      "name": "La vendetta perfetta - Bear Country",
      "poster": "https://image.tmdb.org/t/p/w500/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65611-la-vendetta-perfetta-bear-country"
+    },
+    {
+     "id": "tt0955308",
+     "type": "movie",
+     "name": "Robin Hood - Il prezzo del sangue",
+     "poster": "https://image.tmdb.org/t/p/w500/dXIFYV8PR8WS5nnxspSFnMdZIGZ.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65215-robin-hood-il-prezzo-del-sangue"
     }
    ]
   },
@@ -511,6 +514,13 @@
    "id": "thriller",
    "name": "SC – Thriller",
    "metas": [
+    {
+     "id": "tt18351090",
+     "type": "movie",
+     "name": "Perfetti bugiardi",
+     "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66641-perfetti-bugiardi"
+    },
     {
      "id": "tt0082508",
      "type": "movie",
@@ -713,13 +723,6 @@
      "name": "Ice Cream Man",
      "poster": "https://image.tmdb.org/t/p/w500/zUMfAvZdYLLCg6IvgjYV5xedv5d.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66533-ice-cream-man"
-    },
-    {
-     "id": "tt0087622",
-     "type": "movie",
-     "name": "The Lift",
-     "poster": "https://image.tmdb.org/t/p/w500/gNmED4QhejpBTAue3g0wabpMaYp.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65344-the-lift"
     }
    ]
   },
@@ -1340,6 +1343,16 @@
    "name": "SC – Crime",
    "metas": [
     {
+     "id": "tt11279822",
+     "type": "series",
+     "name": "Miniserie",
+     "poster": "https://image.tmdb.org/t/p/w500/ucxlg4cVlPdXK3EihmodaZRxRy9.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66633-miniserie",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
      "id": "tt44079238",
      "type": "series",
      "name": "La legge della bestia",
@@ -1444,6 +1457,13 @@
      ]
     },
     {
+     "id": "tt2338107",
+     "type": "movie",
+     "name": "Masterplan",
+     "poster": "https://image.tmdb.org/t/p/w500/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66345-masterplan"
+    },
+    {
      "id": "tt38732131",
      "type": "series",
      "name": "Organize Isler: Money Trap",
@@ -1452,13 +1472,6 @@
      "genres": [
       "Serie TV"
      ]
-    },
-    {
-     "id": "tt2338107",
-     "type": "movie",
-     "name": "Masterplan",
-     "poster": "https://image.tmdb.org/t/p/w500/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66345-masterplan"
     },
     {
      "id": "tt0397612",
@@ -1498,16 +1511,6 @@
      ]
     },
     {
-     "id": "tt36984433",
-     "type": "series",
-     "name": "S.W.A.T. Exiles",
-     "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66190-swat-exiles",
-     "genres": [
-      "Serie TV"
-     ]
-    },
-    {
      "id": "tt35856037",
      "type": "movie",
      "name": "Your Mother Your Mother Your Mother",
@@ -1527,6 +1530,16 @@
      "name": "Il problema finale",
      "poster": "https://image.tmdb.org/t/p/w500/hILt9HJjwU6F8KMg8LFWgethuxF.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66186-il-problema-finale",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt36984433",
+     "type": "series",
+     "name": "S.W.A.T. Exiles",
+     "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66190-swat-exiles",
      "genres": [
       "Serie TV"
      ]
@@ -1559,21 +1572,21 @@
      ]
     },
     {
-     "id": "tt33539520",
-     "type": "series",
-     "name": "Neagley",
-     "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65791-neagley",
-     "genres": [
-      "Serie TV"
-     ]
-    },
-    {
      "id": "tt32132697",
      "type": "series",
      "name": "Route 187",
      "poster": "https://image.tmdb.org/t/p/w500/lUSFJe9saqsPvaDYqSUYuSFdtM4.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65805-route-187",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt33539520",
+     "type": "series",
+     "name": "Neagley",
+     "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65791-neagley",
      "genres": [
       "Serie TV"
      ]
@@ -1604,13 +1617,6 @@
      "genres": [
       "Serie TV"
      ]
-    },
-    {
-     "id": "tt37275992",
-     "type": "movie",
-     "name": "La donna senza passato",
-     "poster": "https://image.tmdb.org/t/p/w500/ygjM2KHwJbUPKmx0uEZ8OdTBc1L.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65590-la-donna-senza-passato"
     }
    ]
   },
@@ -1618,6 +1624,13 @@
    "id": "commedia",
    "name": "SC – Commedia",
    "metas": [
+    {
+     "id": "tt0311864",
+     "type": "movie",
+     "name": "Steps",
+     "poster": "https://image.tmdb.org/t/p/w500/hKj6FZo9p14qWti7fJ366VPuPvM.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66644-steps"
+    },
     {
      "id": "tt6611324",
      "type": "movie",
@@ -1883,16 +1896,6 @@
      "genres": [
       "Serie TV"
      ]
-    },
-    {
-     "id": "tt5646594",
-     "type": "series",
-     "name": "Youth",
-     "poster": "https://image.tmdb.org/t/p/w500/iJBaJVqKcqTej52UKbRvsqCgAVe.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66145-youth",
-     "genres": [
-      "Serie TV"
-     ]
     }
    ]
   },
@@ -1900,13 +1903,6 @@
    "id": "fantascienza",
    "name": "SC – Fantascienza",
    "metas": [
-    {
-     "id": "tt1392170",
-     "type": "movie",
-     "name": "Hunger Games - L'alba sulla mietitura",
-     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
-    },
     {
      "id": "tt2397619",
      "type": "movie",
@@ -1957,18 +1953,18 @@
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65634-lego-star-wars-the-mandalorian"
     },
     {
-     "id": "tt0087167",
-     "type": "movie",
-     "name": "Yellow Mirror",
-     "poster": "https://image.tmdb.org/t/p/w500/575y9kUQoaxL1YeRGOjB7w0g96Q.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65571-yellow-mirror"
-    },
-    {
      "id": "tt21285562",
      "type": "movie",
      "name": "The Dog Stars - Guidati dalle stelle",
      "poster": "https://image.tmdb.org/t/p/w500/kNzWRhai5eMUC0NuybT4VdisqHF.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/60270-the-dog-stars-guidati-dalle-stelle"
+    },
+    {
+     "id": "tt0087167",
+     "type": "movie",
+     "name": "Yellow Mirror",
+     "poster": "https://image.tmdb.org/t/p/w500/575y9kUQoaxL1YeRGOjB7w0g96Q.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/65571-yellow-mirror"
     },
     {
      "id": "tt27165187",
@@ -2104,6 +2100,13 @@
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55485-pizza-movie"
     },
     {
+     "id": "tt0119431",
+     "type": "movie",
+     "name": "Jumpers - Un salto tra gli animali",
+     "poster": "https://image.tmdb.org/t/p/w500/k6gJLmAVZlEkFTv40YcPIaSBGkn.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/55244-jumpers-un-salto-tra-gli-animali"
+    },
+    {
      "id": "tt0091998",
      "type": "movie",
      "name": "La Sposa!",
@@ -2127,21 +2130,21 @@
      ]
     },
     {
-     "id": "tt39957390",
-     "type": "series",
-     "name": "Bass X Machina",
-     "poster": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66489-bass-x-machina",
-     "genres": [
-      "Serie TV"
-     ]
-    },
-    {
      "id": "tt39325975",
      "type": "series",
      "name": "L’imperatrice risposata",
      "poster": "https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg",
      "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66491-limperatrice-risposata",
+     "genres": [
+      "Serie TV"
+     ]
+    },
+    {
+     "id": "tt39957390",
+     "type": "series",
+     "name": "Bass X Machina",
+     "poster": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66489-bass-x-machina",
      "genres": [
       "Serie TV"
      ]
@@ -2639,11 +2642,11 @@
    "name": "SC – Avventura",
    "metas": [
     {
-     "id": "tt1392170",
+     "id": "tt0311864",
      "type": "movie",
-     "name": "Hunger Games - L'alba sulla mietitura",
-     "poster": "https://image.tmdb.org/t/p/w500/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
-     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/49895-hunger-games-lalba-sulla-mietitura"
+     "name": "Steps",
+     "poster": "https://image.tmdb.org/t/p/w500/hKj6FZo9p14qWti7fJ366VPuPvM.jpg",
+     "description": "Da StreamingCommunity.\nPagina originale: https://streamingcommunityz.dad/it/titles/66644-steps"
     },
     {
      "id": "tt2056785",

@@ -1,6 +1,27 @@
 {
  "metas": [
   {
+   "id": "tt38773219",
+   "type": "movie",
+   "name": "Scrooge e gli spiriti del Natale",
+   "poster": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/scrooge-e-gli-spiriti-del-natale-2026/"
+  },
+  {
+   "id": "cb01m68747470733a2f2f636230316f6e652e6c6976652f666c617669612d64652d6c7563652d756e612d6465746563746976652d67656e69616c652d68642d323032362f",
+   "type": "movie",
+   "name": "Flavia de Luce: Una detective geniale",
+   "poster": "https://cb01one.live/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-61-200x300.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/flavia-de-luce-una-detective-geniale-hd-2026/"
+  },
+  {
+   "id": "tt1341338",
+   "type": "movie",
+   "name": "Good Luck, Have Fun, Don't Die",
+   "poster": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/good-luck-have-fun-dont-die-hd-2025/"
+  },
+  {
    "id": "tt0081510",
    "type": "movie",
    "name": "Sierra Madre",
@@ -62,27 +83,6 @@
    "name": "La torta del Presidente",
    "poster": "https://image.tmdb.org/t/p/w500/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
    "description": "Novità da CB01.\nPagina originale: https://cb01one.live/la-torta-del-presidente-hd-2025/"
-  },
-  {
-   "id": "tt6611324",
-   "type": "movie",
-   "name": "Guarding Stars",
-   "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/guarding-stars-hd-2026/"
-  },
-  {
-   "id": "tt26913427",
-   "type": "movie",
-   "name": "Madden",
-   "poster": "https://image.tmdb.org/t/p/w500/92Tb7o4OsRgxuOvK3ROs9T6QE24.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/madden-hd-2026/"
-  },
-  {
-   "id": "tt31830814",
-   "type": "movie",
-   "name": "Forgive Us All",
-   "poster": "https://image.tmdb.org/t/p/w500/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/forgive-us-all-hd-2025/"
   }
  ]
 }

@@ -1,88 +1,88 @@
 {
  "metas": [
   {
+   "id": "tt1285016",
+   "type": "movie",
+   "name": "The Social",
+   "poster": "https://image.tmdb.org/t/p/w500/aZJxgQCqDrg5ALD4OhNc4yRNAkW.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/the-social-il-prezzo-della-verita-hd-2026/"
+  },
+  {
+   "id": "tt39316936",
+   "type": "movie",
+   "name": "Scontrarsi a Natale",
+   "poster": "https://image.tmdb.org/t/p/w500/1EgU1QFb9TXhMusCDHgwadkI73y.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/scontrarsi-a-natale-hd-2026/"
+  },
+  {
    "id": "tt38773219",
    "type": "movie",
    "name": "Scrooge e gli spiriti del Natale",
    "poster": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/scrooge-e-gli-spiriti-del-natale-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/scrooge-e-gli-spiriti-del-natale-2026/"
   },
   {
-   "id": "cb01m68747470733a2f2f636230316f6e652e6c6976652f666c617669612d64652d6c7563652d756e612d6465746563746976652d67656e69616c652d68642d323032362f",
+   "id": "cb01m68747470733a2f2f636230316f6e652e646f776e6c6f61642f666c617669612d64652d6c7563652d756e612d6465746563746976652d67656e69616c652d68642d323032362f",
    "type": "movie",
    "name": "Flavia de Luce: Una detective geniale",
-   "poster": "https://cb01one.live/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-61-200x300.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/flavia-de-luce-una-detective-geniale-hd-2026/"
+   "poster": "https://cb01one.download/wp-content/uploads/2026/11/72VBsOrSqAL._SL1500_-61-200x300.jpg",
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/flavia-de-luce-una-detective-geniale-hd-2026/"
   },
   {
    "id": "tt1341338",
    "type": "movie",
    "name": "Good Luck, Have Fun, Don't Die",
    "poster": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/good-luck-have-fun-dont-die-hd-2025/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/good-luck-have-fun-dont-die-hd-2025/"
   },
   {
    "id": "tt0081510",
    "type": "movie",
    "name": "Sierra Madre",
    "poster": "https://image.tmdb.org/t/p/w500/iTGpG2aRTdi3Oo7jryByu9o6qei.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/sierra-madre-linea-di-fuoco-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/sierra-madre-linea-di-fuoco-hd-2026/"
   },
   {
    "id": "tt0373209",
    "type": "movie",
    "name": "Operation Kabul",
    "poster": "https://image.tmdb.org/t/p/w500/rHOTaT34vaxzN7TAzgSWHiqCA5p.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/operation-kabul-2025/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/operation-kabul-2025/"
   },
   {
    "id": "tt0311864",
    "type": "movie",
    "name": "Steps",
    "poster": "https://image.tmdb.org/t/p/w500/hKj6FZo9p14qWti7fJ366VPuPvM.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/steps-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/steps-hd-2026/"
   },
   {
    "id": "tt33402927",
    "type": "movie",
    "name": "A nome di mio figlio",
    "poster": "https://image.tmdb.org/t/p/w500/z8whdMy00gGskrqSfeuGfE98pGH.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/a-nome-di-mio-figlio-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/a-nome-di-mio-figlio-hd-2026/"
   },
   {
    "id": "tt18351090",
    "type": "movie",
    "name": "Perfetti bugiardi",
    "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/perfetti-bugiardi-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/perfetti-bugiardi-hd-2026/"
   },
   {
    "id": "tt50016818",
    "type": "movie",
    "name": "Profumo di bergamotto",
    "poster": "https://image.tmdb.org/t/p/w500/kq5ihVEqv7NT1eJVfupYqLNWDxG.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/profumo-di-bergamotto-hd-2026/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/profumo-di-bergamotto-hd-2026/"
   },
   {
    "id": "tt6902560",
    "type": "movie",
    "name": "Sangue vuole sangue",
    "poster": "https://image.tmdb.org/t/p/w500/6mtbVmbCTMojraQxiD7R5N6jDPr.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/sangue-vuole-sangue-hd-2025/"
-  },
-  {
-   "id": "tt35672862",
-   "type": "movie",
-   "name": "Hokum",
-   "poster": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/hokum-hd-2026/"
-  },
-  {
-   "id": "tt36580119",
-   "type": "movie",
-   "name": "La torta del Presidente",
-   "poster": "https://image.tmdb.org/t/p/w500/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
-   "description": "Novità da CB01.\nPagina originale: https://cb01one.live/la-torta-del-presidente-hd-2025/"
+   "description": "Novità da CB01.\nPagina originale: https://cb01one.download/sangue-vuole-sangue-hd-2025/"
   }
  ]
 }
